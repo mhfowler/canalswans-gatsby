@@ -34,7 +34,37 @@ body {
   padding-top: 20px;
 }
 
-header {
+header.simple-header {
+  padding-top: 17px;
+  //padding-left: 23px;
+  display: flex;
+  justify-content: center;
+  .simple-vertical-flow {
+      flex-direction: column;
+      align-items: flex-start;
+    .header-simple-top {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+    .header-simple-bottom {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      width: 150px;
+      display: flex;
+      a {
+        color: gray;
+      }
+    }
+  }
+  a {
+    color: black;
+  }
+}
+
+header.large-header {
   display:flex;
   justify-content: center;
   padding-top: 17px;
@@ -101,6 +131,7 @@ body.standard a.hlink {
     display: flex;
     flex-flow: column;
     justify-content: flex-start;
+    display: none;
   }
   .footer-top {
     display: flex;
@@ -129,4 +160,18 @@ body.standard a.hlink {
     align-items:center;
     flex-direction:column;
   }
+
+}
+
+.aboutWrapper {
+  width: 600px;
+  margin:auto;
+  text-align: center;
+}
+.aboutLinks {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
 }
