@@ -37,20 +37,18 @@ header {
   padding-left: 23px;
   padding-right: 21px;
   .header-left {
+    width: 33.33%;
     display: flex;
     justify-content: flex-start;
-    align-items: center;
   }
   .header-center {
-    display: flex;
-    justify-content: center;
-       align-items: center;
+    width: 33.33%;
+    text-align: center;
   }
   .header-right {
+    width: 33.33%;
     display: flex;
     justify-content: flex-end;
-    align-items: center;
-    margin-left: auto;
   }
   .mood-button {
     float: left;
@@ -90,11 +88,9 @@ body.standard a.hlink {
   text-align: center;
 }
 
-.footer-links-wrapper {
-  display: flex;
-  align-items: center;
-  width: 100%;
-}
 .footer {
-  height: 200px;
+  margin-top: 80px;
+  margin-bottom: 160px;
+  display: flex;
+  justify-content: center;
 }
