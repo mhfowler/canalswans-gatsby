@@ -12,7 +12,7 @@ This is a reflection into my ongoing experiments into accessing this well,
 as a potential form of direct action against the oppressive structures that frequently mediate our world. 
 What are the pathways immediately around us that lead to information being transmitted into our eyes? 
 What effects do these structures have on us? 
-What agency do we have in how we relate to them? What actions can we take today?
+What agency do we have in how we relate to them? 
 
 ![map5](img/map5.png)
 
@@ -53,10 +53,12 @@ like imagining a UI based on blank screen
 the only ideas that surface are the ideas that originate from you
 ```
 
-In the past year, I experienced a variety of ups and downs, and its hard to say what can really be attributed to using a flip-phone, 
-but I still believe in the potential of more mindfully using (and not using) technology as a healing practice. 
+In the past year, I experienced a variety of ups and downs, and its hard to say what can really be attributed to using a flip-phone. 
 
-A recurring theme was that if I was feeling bad I tended to blame it on the flip-phone and be frustrated by the project, 
+I am now using my iPhone again but I still believe in the potential of more mindfully using (and not using) technology as a healing practice
+as described in this zine I created with Catherine Schmidt. 
+
+A recurring theme of the year was that if I was feeling bad I tended to blame it on the flip-phone and be frustrated by the project, 
 and if I was feeling good then I felt like the flip-phone was a great idea. 
 
 This was my note from May 7th:
@@ -73,8 +75,10 @@ petja says “i have friends, i am doing ok”
 Unfortunately, only the Auslanderbehorde (the German Foreigner’s office which grants Visas) is institutionally verified to really say if I’m doing OK or not. 
 
 In the absence of their official opinion, I will leave that for the wind to debate, 
-and instead will share my journal entries from the first 10 days after I decided to use a flip-phone:
+as for me using a flip-phone was more intended as a ritual in tribute to mindfulness 
+than as something with a single result.  
 
+Here are my journal entries from the first 10 days after I decided to use a flip-phone:
 ```
 day 1 (sunday)
 picked up rpi from kleinanzeigen and hung out with mylene 
@@ -146,7 +150,7 @@ I am currently using my smart phone again and I may stop again in the future.
 
 —
 
-In tribute to the power of direct of experience,   
+Disconnecting and connecting,   
 M
 
 

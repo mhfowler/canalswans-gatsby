@@ -1,0 +1,113 @@
+
+
+body.asmr {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    background-color: #c2c2de;
+    .projects-wrapper {
+        display:none;
+    }
+}
+
+body.times-new-roman {
+    background-color: white;
+    .simple-site {
+        display:none;
+    }
+    a {
+        color: rgb(255, 0, 174);
+    }
+}
+
+body.standard {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    .simple-site {
+        display:none;
+    }
+    a {
+        color: #8900ff;
+    }
+}
+
+body.sponsored {
+    background-image: url('/img/inverted-bp.png');
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    color:white;
+    .navlink a {
+        color: white;
+    }
+    .simple-title a {
+        color: white;
+    }
+    .myname a {
+        color: white;
+    }
+    .projects-wrapper {
+        display:none;
+    }
+}
+
+body.test {
+    background-image: url('/img/triangles.png');
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+    font-size: 28px;
+    .navlink a {
+        color: blue;
+    }
+    .simple-title a {
+        color: blue;
+    }
+    .myname a {
+        color: red;
+    }
+    .p5-sketch {
+        display: block;
+    }
+    .projects-wrapper {
+        display:none;
+    }
+    .page-wrapper {
+        padding-top: 100px;
+    }
+}
+
+.control-panel {
+    //display: none;
+    position: absolute;
+    padding: 20px;
+    top: 0px;
+    padding-bottom: 30px;
+    //border: 1px solid gray;
+    width: 100%;
+    .click-your-mood {
+        float: left;
+        @media screen and (max-width: 600px) {
+            width: 100%;
+        }
+    }
+    .mood-button {
+        display: block;
+        margin-left: 23px;
+        margin-bottom:5px;
+        float: left;
+        font-size: 12px;
+        &:hover {
+            cursor: pointer;
+        }
+        &.clicked {
+            text-decoration: underline;
+        }
+        @media screen and (max-width: 600px) {
+            margin-right: 23px;
+            margin-left: 0px;
+            margin-top: 5px;
+        }
+    }
+}

@@ -1,13 +1,10 @@
 // src/components/layout.js
 import React from "react"
-import Carousel from "../components/Carousel.js"
 import SLink from "../components/SLink.js"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
-import Layout from "../layouts";
+import Layout from "../layouts/layout.js";
 import {Link} from "gatsby";
-
-const shortcodes = { Carousel, SLink }
 
 // simple template for testing
 // export default function PageTemplate({ data: { mdx } }) {
@@ -39,7 +36,7 @@ export default function MdxTemplate({ data: { mdx  }}) {
     return (
       <Layout noHeader={noHeader} pageType={pageType}>
         <article className={"markdownWrapper"}>
-          <header style={{'margin-bottom': '20px', 'width': '100%', 'float':'left'}}>
+          <div className="articleHeader" style={{'margin-bottom': '20px', 'width': '100%', 'float':'left'}}>
             <h2
               style={{
                 marginBottom: 0,
@@ -65,11 +62,10 @@ export default function MdxTemplate({ data: { mdx  }}) {
               >
               </p>
               : null}
-          </header>
+          </div>
           <section className="mdxWrapper">
             <MDXProvider components={{
                   "SLink": SLink,
-                  "Carousel": Carousel,
                 }}>
                 <MDXRenderer >{mdx.body}</MDXRenderer>
             </MDXProvider>

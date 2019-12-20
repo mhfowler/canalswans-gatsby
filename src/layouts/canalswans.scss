@@ -1,3 +1,73 @@
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+body {
+  margin: 0px;
+  padding-bottom: 30px;
+  @include clearfix();
+
+  .page-wrapper {
+    background-size: contain;
+    margin: auto;
+    max-width: 750px;
+    padding-top: 75px;
+    width: 90%;
+    padding-bottom: 70px;
+    min-height: 100vh;
+    @include clearfix();
+    @media screen and (max-width: 575px) {
+    }
+  }
+}
+
+.main-wrapper {
+  padding-top: 20px;
+}
+
+header {
+  display:flex;
+  justify-content: center;
+  padding-top: 17px;
+  padding-left: 23px;
+  padding-right: 21px;
+  .header-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .header-center {
+    display: flex;
+    justify-content: center;
+       align-items: center;
+  }
+  .header-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto;
+  }
+  .mood-button {
+    float: left;
+    margin-right: 15px;
+    &:hover {
+      cursor: pointer;
+    }
+    &.clicked {
+      text-decoration: underline;
+    }
+  }
+  .click-your-mood {
+    float: left;
+    margin-right: 15px;
+  }
+}
+
 a.hlink {
   //display: block;
   //text-align: right;
@@ -5,8 +75,8 @@ a.hlink {
   //margin-top: 10px;
   color: gray;
   float:left;
-  margin-top: 5px;
   margin-right: 15px;
+  text-decoration: none;
 }
 body.standard a.hlink {
   color: gray;

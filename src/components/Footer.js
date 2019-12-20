@@ -1,8 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Filler from './Filler.js'
 import SLink from "./SLink";
-var classNames = require('classnames')
 
 const Footer = ({reversed}) => {
   return (
