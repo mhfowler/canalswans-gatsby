@@ -29,7 +29,7 @@ const Header = (props) => {
       <div className="header-right">
         <div>
           <SLink className="hlink" to='/about'>about</SLink>
-          <SLink className="hlink" to='/essays'>essays</SLink>
+          <SLink className="hlink" to='/'>writing</SLink>
           <SLink className="hlink" to='/zines'>zines</SLink>
         </div>
       </div>

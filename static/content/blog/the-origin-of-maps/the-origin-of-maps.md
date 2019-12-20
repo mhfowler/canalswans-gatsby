@@ -1,6 +1,6 @@
 ---
 path: "/posts/the-origin-of-maps"
-date: "2016-06-20T23:19:51.246Z"
+date: "2019-12-20T23:19:51.246Z"
 title: "The Origin Of Maps"
 type: "blog"
 note: "Max Fowler"
@@ -27,7 +27,6 @@ Hey!
  
 
 A little over a year ago, on November 18th, after drinking a large coffee, 
-in an unusual moment of unifying coherence, 
 I decided that I would try to use a flip-phone for somewhere between three months and a year, 
 along with keeping a journal of emotions that arose for me during the process, 
 marking on a calendar any days where I caved and used my iPhone, 
@@ -41,98 +40,104 @@ and creating a collection of all the maps I drew for navigating the city while u
 
 According to the journal, on December 14th, I imagined titling this collection of activities _The Origin Of Maps_, here is my note from that day:
 
-```
-12/14/18 (friday)
-thought of the title The Origin Of Maps
-a reference to direct experience, where all maps, originally, come from 
-by the time we see an address inputted into Google Maps, 
-there have been many layers of mediation 
-The Origin Of Maps invites a return to direct experience
-using the flip phone, you have to think of who you want to text or call
-like imagining a UI based on blank screen 
-the only ideas that surface are the ideas that originate from you
-```
+>12/14/18 (friday)  
+>thought of the title The Origin Of Maps  
+>a reference to direct experience, where all maps, originally, come from  
+>by the time we see an address inputted into Google Maps,  
+>there have been many layers of mediation   
+>The Origin Of Maps invites a return to direct experience  
+>using the flip phone, you have to think of who you want to text or call  
+>like imagining a UI based on blank screen   
+>the only ideas that surface are the ideas that originate from you  
 
 In the past year, I experienced a variety of ups and downs, and its hard to say what can really be attributed to using a flip-phone. 
 
-I am now using my iPhone again but I still believe in the potential of more mindfully using (and not using) technology as a healing practice
-as described in this zine I created with Catherine Schmidt. 
+Since December 4th I am using my iPhone again, and it is a relief in many ways,
+but I still believe in the potential of more mindfully using (and not using) technology as a healing practice.
 
-A recurring theme of the year was that if I was feeling bad I tended to blame it on the flip-phone and be frustrated by the project, 
+A recurring theme of the year was that if I was feeling bad I tended to blame it on the flip-phone, 
 and if I was feeling good then I felt like the flip-phone was a great idea. 
 
 This was my note from May 7th:
 
-```
-5/7/19 (tuesday)
-speaking with petja about how when I am feeling bad I blame my phone 
-(i am alienated, i have no friends etc.), 
-but when I am feeling good 
-my life feels full and it seems like I have no problem 
-petja says “i have friends, i am doing ok”
-```
+>5/7/19 (tuesday)  
+>speaking with petja about how when I am feeling bad I blame my phone   
+>(i am alienated, i have no friends etc.),   
+>but when I am feeling good 
+>my life feels full and it seems like I have no problem   
+>petja says “i have friends, i am doing ok”  
 
 Unfortunately, only the Auslanderbehorde (the German Foreigner’s office which grants Visas) is institutionally verified to really say if I’m doing OK or not. 
 
-In the absence of their official opinion, I will leave that for the wind to debate, 
-as for me using a flip-phone was more intended as a ritual in tribute to mindfulness 
-than as something with a single result.  
+In the absence of their official opinion, I will leave that for the wind to debate.  
+
+For me using a flip-phone was primarily a ritual in tribute to mindfulness and 
+a form of direct action to call into question what is truly nourishing.
+
+—
 
 Here are my journal entries from the first 10 days after I decided to use a flip-phone:
-```
-day 1 (sunday)
-picked up rpi from kleinanzeigen and hung out with mylene 
-missed on turn on the way to kleinanzeigen pickup,  
-but used map in my bag to figure out where I had missed the turn 
-(felt like my rope harness catching me from falling) 
 
-day 2 (monday)
-took my iphone with me because I wanted to use a weird app 
-to text a drug dealer about buying weed 
-which I thought was only available on iphone 
-but turns out also has desktop version 
+>day 1 (sunday)  
+>picked up raspberry pi from kleinanzeigen and hung out with mylene   
+>missed my turn on the way to kleinanzeigen pickup,    
+>but used map in my bag to figure out where I had missed the turn   
+>(felt like my rope harness catching me from falling)   
+>  
+>day 2 (monday)  
+>took my iphone with me because I wanted to use a weird app   
+>to text a drug dealer about buying weed   
+>which I thought was only available on iphone   
+>but turns out also has desktop version   
+>  
+>day 3 (tuesday)  
+>took my iphone with me to studio because I was feeling like texting from the corner of the studio was nice  
+>was feeling unsure about the project,   
+>and frustrated that people were having trouble understanding how I wanted to be reached   
+>in the evening left studio without my smart phone  
+>felt rejuvenated by patty texting me updates to where the birthday party she was at was,   
+>even though we had been messaging before on telegram.   
+>she understood the system I wanted to use and laughed and told me it wasn’t that complicated   
+>  
+>day 4 (wednesday)  
+>left my iphone at home in the morning   
+>felt excited about project in general  
+>as a way to provide some structure and direction to my life   
+>to frame a period of life as research and ritual   
+>  
+>day 5 (thursday)  
+>felt good to only have flip-phone during the day     
+>and at night-time while returning to my apartment  
+>was excited to see what messages i had received on my iphone   
+>  
+>day 6 (friday)  
+>using flip phone feels like gently scuba-diving away from my computer everyday  
+>messaging during the day, it was not so difficult making plans for the weekend   
+>  
+>day 7 (saturday)  
+>thought I had memorized directions, but realized I hadn’t memorized what to do after getting out of the u-bahn   
+>successfully navigated the final part by asking strangers on the street for directions    
+>  
+>day 8  (sunday)  
+>dan says “you are really making life complicated… flip-phone, veganism”  
+>he tells me he and a friend have been writing a song for fun with the lyrics  
+>“gimme me vegan ramen… fuck u…. vegan doc martens…. fuck u….  
+>Berghain (it used to be better)…. 
+>Sysyphous (it used to be better)….  
+>About Blank (it used to be better)”   
+>  
+>day 9 (monday)  
+>catherine lost her computer while on vacation and spent a week without computer or phone  
+>she says she feels a bit feral, but in a good way. I feel like I can also feel a difference   
+>she is dreaming of having no laptop,  
+>just having her computer be in a physical location where it is used.  
+>or of getting a job with her hands, becoming a cook   
+>  
+>day 10 (tuesday)  
+>enjoyed getting coffee with Isaac, and baking a sweet potato for myself in the evening.  
+>not sure if this deserves to be in the journal or not, but it felt nice to buy a single sweet potato, and take it home and bake it and eat half of it for dinner (with rice and beans) and then eat the other half for breakfast the next day with eggs  
 
-day 3 (tuesday)
-took my iphone with me to studio because I was feeling like texting from the corner of the studio was nice
-was feeling unsure about the project, 
-and frustrated that people were having trouble understanding how I wanted to be reached 
-in the evening left studio without my smart phone
-felt rejuvenated by patty texting me updates 
-to where the birthday party she was at was, 
-even though we had been messaging before on telegram. 
-she understood the system I wanted to use 
-and laughed and told me it wasn’t that complicated 
-
-day 4 (wednesday)
-left my iphone at home in the morning 
-felt excited about project in general as a way to provide some structure and direction to my life 
-to frame a period of life as research and ritual 
-
-day 5 (thursday)
-felt good to only have flip-phone during the day   
-and at night-time while returning to my apartment was excited to see what messages i had received on my iphone 
-
-day 6 (friday)
-using flip phone feels like gently scuba-diving away from my computer everyday
-messaging during the day, it was not so difficult making plans for the weekend 
-
-day 7 (saturday)
-thought I had memorized directions, but realized I hadn’t memorized what to do after getting out of the u-bahn 
-successfully navigated the final part by asking strangers on the street for directions  
-
-day 8  (sunday)
-dan says “you are really making life complicated… flip-phone, veganism”
-he tells me he and a friend have been writing a song for fun with the lyrics
-“gimme me vegan ramen… fuck u…. vegan doc martens…. fuck u…. Berghain (it used to be better)…. Sysyphous (it used to be better)…. About Blank (it used to be better)”
-
-day 9 (monday)
-catherine lost her computer while on vacation and spent a week without computer or phone
-she says she feels a bit feral, but in a good way. I feel like I can also feel a difference 
-she is dreaming of having no laptop, just having her computer be in a physical location where it is used. or of getting a job with her hands, becoming a cook 
-
-day 10 (tuesday)
-enjoyed getting coffee with Isaac, and baking a sweet potato for myself in the evening. not sure if this deserves to be in the journal or not, but it felt nice to buy a single sweet potato, and take it home and bake it and eat half of it for dinner (with rice and beans) and then eat the other half for breakfast the next day with eggs
-```
+<br/>
 
 —
 
@@ -150,7 +155,7 @@ I am currently using my smart phone again and I may stop again in the future.
 
 —
 
-Disconnecting and connecting,   
+Disconnecting and reconnecting,   
 M
 
 

@@ -58,23 +58,17 @@ body.test {
     font-family: 'Roboto Mono', monospace;
     color: red;
     font-size: 28px;
-    .navlink a {
+    a {
         color: blue;
-    }
-    .simple-title a {
-        color: blue;
-    }
-    .myname a {
-        color: red;
-    }
-    .p5-sketch {
-        display: block;
-    }
-    .projects-wrapper {
-        display:none;
     }
     .page-wrapper {
         padding-top: 100px;
+    }
+    .mdxWrapper {
+        color: blue;
+        a {
+            color: red;
+        }
     }
 }
 
