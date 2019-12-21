@@ -14,7 +14,7 @@ const Footer = ({reversed}) => {
         </div>
         <div className="footer-bottom">
             <SLink className="hlink" to='/about'>about</SLink>
-            <SLink className="hlink" to='/'>writing</SLink>
+            <SLink className="hlink" to='/'>index</SLink>
             <SLink className="hlink" to='/zines'>zines</SLink>
         </div>
       </div>

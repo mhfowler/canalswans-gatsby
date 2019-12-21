@@ -20,7 +20,7 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
   return (
-    <Layout>
+    <Layout hideFooter={true}>
       <div className="toc-wrapper">
         <p className="table-of-contents">Table Of Contents</p>
         <div className="posts-wrapper">{Posts}</div>
@@ -31,7 +31,11 @@ const IndexPage = ({
 export default IndexPage
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(
+    sort: { order: DESC, fields: [frontmatter___date] }
+    filter: { frontmatter: { draft: { ne: "true" } } }
+    ) 
+    {
       edges {
         node {
           id
@@ -40,6 +44,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             path
             title
+            draft
           }
         }
       }
