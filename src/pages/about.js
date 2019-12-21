@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <div className="aboutWrapper">
       <p>
-        Canal Swans is a blog/website/publishing-platform/distribution-channel/online-retail-conglomerate maintained by <a href="http://mfowler.info">Max Fowler</a>.
+        Canal Swans is a blog/website/publishing-platform/distribution-channel/online-retail-conglomerate with writing by <a href="http://mfowler.info">Max Fowler</a>.
       </p>
       {/*<p>*/}
       {/*  This is a blog for sharing writing, notes, sketches and other fragments.*/}
