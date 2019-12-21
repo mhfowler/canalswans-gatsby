@@ -1,14 +1,16 @@
 ---
-path: "/posts/the-origin-of-maps"
+path: "/posts/the-origin-of-maps-old-draft"
 date: "2019-12-20T23:19:51.246Z"
 title: "The Origin Of Maps"
 type: "blog"
+draft: "true"
 note: "Max Fowler"
 ---
 
 The origin of all maps is direct experience. Direct experience is a source of knowledge and energy which is always available and has no substitute.[^1] 
 
-This is a reflection into my ongoing experiments into accessing this well.
+This is a reflection into my ongoing experiments into accessing this well, 
+as a potential form of direct action against the oppressive structures that frequently mediate our world. 
 What are the pathways immediately around us that lead to information being transmitted into our eyes? 
 What effects do these structures have on us? 
 What agency do we have in how we relate to them? 
@@ -49,11 +51,29 @@ According to the journal, on December 14th, I imagined titling this collection o
 >like imagining a UI based on blank screen   
 >the only ideas that surface are the ideas that originate from you  
 
-Since December 4th I have been using a smart phone again. Its a relief in many ways, 
+In the past year, I experienced a variety of ups and downs, and its hard to say what can really be attributed to using a flip-phone. 
+
+Since December 4th I am using my iPhone again, and it is a relief in many ways,
 but I still believe in the potential of more mindfully using (and not using) technology as a healing practice.
 
-For me, using a flip-phone was
-an effort to call into question what is truly nourishing without passively accepting the status quo.
+A recurring theme of the year was that if I was feeling bad I tended to blame it on the flip-phone, 
+and if I was feeling good then I felt like the flip-phone was a great idea. 
+
+This was my note from May 7th:
+
+>5/7/19 (tuesday)  
+>speaking with petja about how when I am feeling bad I blame my phone   
+>(i am alienated, i have no friends etc.),   
+>but when I am feeling good 
+>my life feels full and it seems like I have no problem   
+>petja says “i have friends, i am doing ok”  
+
+Unfortunately, only the Auslanderbehorde (the German Foreigner’s office which grants Visas) is institutionally verified to really say if I’m doing OK or not. 
+
+In the absence of their official opinion, I will leave that for the wind to debate.  
+
+For me using a flip-phone was primarily a ritual in tribute to mindfulness and 
+a form of direct action to call into question what is truly nourishing.
 
 —
 
