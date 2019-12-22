@@ -140,22 +140,18 @@ I then continued to use the dumb phone for the rest of the year until November 2
 I particularly look back highly on the first three months where I felt a lot of excitement and newness. 
 I am currently using my smart phone again and I may take more time away in the future. 
 I especially dream of being in more situations where I am so engaged with my surroundings that my smart phone ends 
-up staying in my bag out of batteries for days without me noticing. Disconnection practices can be a direct action tool in the interim.
+up staying in my bag out of batteries for days without me noticing. Disconnection practices can serve us in the interim.
 
 —
 
 Disconnecting and reconnecting,   
 M
 
-—
 
+Related Resources:
 
-Additional Resources:
-
-- Flight Simulator
-- Empty Day 
-- How To Use The Internet Mindfully?
-
+- [Flight Simulator](https://flightsimulator.soft.works/)
+- [Empty Day](https://emptyday.today/) 
 
 
 [^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way.  
