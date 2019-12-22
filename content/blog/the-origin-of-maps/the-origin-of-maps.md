@@ -152,9 +152,9 @@ M
 
 Additional Resources:
 
-- Flight Simulator
-- Empty Day 
-- How To Use The Internet Mindfully?
+- [Flight Simulator](https://flightsimulator.soft.works/)
+- [Empty Day](https://emptyday.today/) 
+- [How Do You Use The Internet Mindfully?](https://thecreativeindependent.com/notes/arena-tci-how-do-you-use-the-internet-mindfully/)
 
 
 
