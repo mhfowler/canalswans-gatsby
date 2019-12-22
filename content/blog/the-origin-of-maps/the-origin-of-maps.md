@@ -148,7 +148,7 @@ Disconnecting and reconnecting,
 M
 
 
-Additional Resources:
+Related Resources:
 
 - [Flight Simulator](https://flightsimulator.soft.works/)
 - [Empty Day](https://emptyday.today/) 
