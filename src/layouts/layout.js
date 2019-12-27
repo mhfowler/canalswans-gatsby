@@ -7,6 +7,7 @@ import SLink from '../components/SLink.js'
 import "./moods.scss"
 import "./markdown.scss"
 import "./canalswans.scss"
+import "./zines.scss"
 
 var classNames = require('classnames')
 

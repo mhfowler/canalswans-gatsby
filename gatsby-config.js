@@ -37,6 +37,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/content/zines`,
+        name: `zines`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -103,7 +110,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { draft: { ne: "true" } } }
+                  filter: { frontmatter: { draft: { ne: "true" }, type: { eq: "blog" }} }
                 ) {
                   edges {
                     node {

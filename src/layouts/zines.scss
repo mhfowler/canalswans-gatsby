@@ -1,0 +1,30 @@
+.zineWrapper {
+
+  .backButton {
+    color: black;
+  }
+
+  .zineDetail {
+    margin-top: 30px;
+    display: flex;
+    align-items: start;
+    flex-direction: row;
+
+    .zineImg {
+      width: 100%;
+      max-width: 400px;
+      margin-right: 50px;
+    }
+
+    .zineWriteup {
+      .zinePrice {
+        margin-top: 10px;
+      }
+
+      .checkoutWrapper {
+        margin-top: 30px;
+      }
+    }
+  }
+
+}

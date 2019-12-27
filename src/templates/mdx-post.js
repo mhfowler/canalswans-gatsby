@@ -1,6 +1,7 @@
 // src/components/layout.js
 import React from "react"
 import SLink from "../components/SLink.js"
+import Zine from "../components/Zine.js"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
 import Layout from "../layouts/layout.js";
@@ -22,27 +23,17 @@ import {Link} from "gatsby";
 //   )
 // }
 
-export default function MdxTemplate({ data: { mdx  }}) {
-    const post = mdx
-    var siteTitle = "notplants.info"
-    var pageType = post.frontmatter.type;
-    if (!pageType) {
-      pageType = 'blog;'
-    }
-    var noHeader = false;
-    if (pageType === 'blog') {
-      noHeader = true;
-    }
+class MdxArticle extends React.Component {
+  render() {
     return (
-      <Layout noHeader={noHeader} pageType={pageType}>
-        <article className={"markdownWrapper"}>
+       <article className={"markdownWrapper"}>
           <div className="articleHeader" style={{'margin-bottom': '20px', 'width': '100%', 'float':'left'}}>
             <h2
               style={{
                 marginBottom: 0,
               }}
             >
-              {post.frontmatter.title}
+              {this.props.post.frontmatter.title}
             </h2>
             <p
               style={{
@@ -51,14 +42,14 @@ export default function MdxTemplate({ data: { mdx  }}) {
                 'float': 'left'
               }}
             >
-              {post.frontmatter.date}
+              {this.props.post.frontmatter.date}
             </p>
-            {post.frontmatter.note ?
+            {this.props.post.frontmatter.note ?
               <p
                 style={{
                   display: `block`,
                 }}
-                dangerouslySetInnerHTML={{'__html': post.frontmatter.note}}
+                dangerouslySetInnerHTML={{'__html': this.props.post.frontmatter.note}}
               >
               </p>
               : null}
@@ -67,10 +58,41 @@ export default function MdxTemplate({ data: { mdx  }}) {
             <MDXProvider components={{
                   "SLink": SLink,
                 }}>
-                <MDXRenderer >{mdx.body}</MDXRenderer>
+                <MDXRenderer >{this.props.mdx.body}</MDXRenderer>
             </MDXProvider>
           </section>
         </article>
+    )
+  }
+}
+
+export default function MdxTemplate({ data: { mdx  }}) {
+    const post = mdx
+    var siteTitle = "notplants.info"
+    var pageType = post.frontmatter.type;
+    if (!pageType) {
+      pageType = 'blog;'
+    }
+    var noHeader = false;
+    var hideFooter = false;
+    if (pageType === 'blog') {
+      noHeader = true;
+    }
+    if (pageType === 'zine') {
+      hideFooter = true;
+    }
+    return (
+      <Layout noHeader={noHeader} hideFooter={hideFooter} pageType={pageType}>
+        {(()=> {
+          switch (pageType) {
+            case 'blog':
+                return <MdxArticle post={post} mdx={mdx}></MdxArticle>;
+            case 'zine':
+              return <Zine zine={post.frontmatter} mdx={mdx}></Zine>
+            default:
+              return null;
+          }
+        })()}
       </Layout>
   )
 }
@@ -83,6 +105,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        img
+        price
         type
       }
     }

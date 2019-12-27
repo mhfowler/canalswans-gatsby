@@ -11,40 +11,38 @@ const PostLink = ({ post }) => (
   </div>
 )
 
-const IndexPage = ({
+const ZinesPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Posts = edges
+  const Zines = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
   return (
     <Layout hideFooter={true}>
       <div className="toc-wrapper">
-        <p className="table-of-contents">Table Of Contents</p>
-        <div className="posts-wrapper">{Posts}</div>
+        <p className="table-of-contents">Zines</p>
+        <div className="posts-wrapper">{Zines}</div>
       </div>
     </Layout>
   )
 }
-export default IndexPage
+export default ZinesPage
 export const pageQuery = graphql`
   query {
     allMarkdownRemark(
-    sort: { order: DESC, fields: [frontmatter___date] }
-    filter: { frontmatter: { draft: { ne: "true" }, type: { eq: "blog" } }}
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { type: { eq: "zine" } } }
     ) 
     {
       edges {
         node {
           id
-          excerpt(pruneLength: 250)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             path
             title
-            draft
           }
         }
       }
