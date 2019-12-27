@@ -7,7 +7,7 @@ price: "$15.00"
 type: "zine"
 ---
 
-A zine exploring practices for disconnecting from your smart phone as healing practices.
+A zine exploring methods of disconnecting from technology as healing practices.
 
 Made in collaboration with <a href="http://cath.land">Catherine Schmidt</a>.
 
