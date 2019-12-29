@@ -25,11 +25,11 @@ Hey!
 [^2]
  
 
-A little over a year ago, on November 18th, after drinking a large coffee, 
+On November 18th of 2018
 I decided that I would try to use a flip-phone for somewhere between three months and a year, 
 along with keeping a journal of emotions that arose for me during the process, 
 marking on a calendar any days where I caved and used my iPhone, 
-building a robotic machine which physically childblocks your iPhone, 
+building [a robotic machine](http://mfowler.info/work/disconnection-practices) which physically childblocks your iPhone, 
 and creating a collection of all the maps I drew for navigating the city while using the flip-phone.
 
 ![map2](img/map2.png)
@@ -49,18 +49,16 @@ According to the journal, on December 14th, I imagined titling this collection o
 >like imagining a UI based on blank screen   
 >the only ideas that surface are the ideas that originate from you  
 
-Since November 29th I have been using a smart phone again. It's a relief in many ways, 
-but I still believe in the potential of more mindfully using (and not using) technology as a healing practice.
-
-For me, using a flip-phone was
-an effort to call into question what is truly nourishing and not just passively accept the status quo. I considered it
-to be a ritual in tribute to mindfulness more than an experiment with a single result.
-I think many people overestimate how often a smartphone is necessary and underestimate its negative effects, 
-but it depends on what's happening in your life and I do not intend to make any universal claim.
+For me, using a flip-phone was an effort to call into question what is truly nourishing
+and not passively accept the status quo.
+I didn't want to do something speculative. 
+Even if small, I wanted to make a concrete change to my life to prioritize direct experience and rest, a form of direct action. 
+I considered it to be a ritual in tribute to mindfulness more than an experiment with a single result.
+Clearly it depends on what's happening in your life and I do not intend to make any universal claim.
 
 I could tell that I exhibited certain compulsive negative habits with relationship to my smart phone,
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
-I questioned in what ways this surveillance-funded gadget made from rare earth minerals was truly serving me. 
+I questioned in what ways this surveillance-funded gadget made from rare earth minerals was truly serving me.
 
 —
 
@@ -129,30 +127,34 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 
 —
 
-And here is the zine I made in collaboration with Catherine Schmidt about the possibility of Disconnection Practices as healing practices:
+You can also buy a physical zine I made in collaboration with Catherine Schmidt about
+disconnection practices as healing practices here:
 
-disconnection-practices.pdf
+--> [Disconnection Practices](/zines/disconnection-practies) 
 
 —
 
 I also wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
-I then continued to use the dumb phone for the rest of the year until November 29, except for a period when I was in the US without a working sim card. 
+I then continued to use the dumb phone for the rest of the year until November 29 of 2019, except for a period when I was in the US without a working sim card. 
 I particularly look back highly on the first three months where I felt a lot of excitement and newness. 
 I am currently using my smart phone again and I may take more time away in the future. 
 I especially dream of being in more situations where I am so engaged with my surroundings that my smart phone ends 
-up staying in my bag out of batteries for days without me noticing. Disconnection practices can serve us in the interim.
+up staying in my bag out of batteries for days without me noticing. Disconnection practices can be 
+a tool to help us reconnect with our senses and prioritize rest in the interim. 
 
 —
 
-Disconnecting and reconnecting,   
+In various states of connection and rest,   
 M
 
 
 Related Resources:
 
+- [Nap Ministry](https://www.instagram.com/thenapministry/) 
 - [Flight Simulator](https://flightsimulator.soft.works/)
 - [Empty Day](https://emptyday.today/) 
 
 
-[^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way.  
+
+[^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way. If I needed a definition of direct for this writing, it might be "without being recorded".   
 [^2]: Lyrics from "Alien Days" by MGMT
