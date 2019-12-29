@@ -130,7 +130,7 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 You can also buy a physical zine I made in collaboration with Catherine Schmidt about
 disconnection practices as healing practices here:
 
---> [Disconnection Practices](/zines/disconnection-practies) 
+--> [Disconnection Practices](/zines/disconnection-practices) 
 
 —
 
