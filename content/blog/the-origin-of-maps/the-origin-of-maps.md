@@ -28,8 +28,8 @@ Hey!
 On November 18th of 2018
 I decided that I would try to use a flip-phone for somewhere between three months and a year, 
 along with keeping a journal of emotions that arose for me during the process, 
-marking on a calendar any days where I caved and used my iPhone, 
-building [a robotic machine](http://mfowler.info/work/disconnection-practices) which physically childblocks your iPhone, 
+marking on a calendar any days where I caved and used my smart phone, 
+building [a robotic machine](http://mfowler.info/work/disconnection-practices) which physically childblocks your smart phone, 
 and creating a collection of all the maps I drew for navigating the city while using the flip-phone.
 
 ![map2](img/map2.png)
@@ -54,7 +54,8 @@ and not passively accept the status quo.
 I didn't want to do something speculative. 
 Even if small, I wanted to make a concrete change to my life to prioritize direct experience and rest, a form of direct action. 
 I considered it to be a ritual in tribute to mindfulness more than an experiment with a single result.
-Clearly it depends on what's happening in your life and I do not intend to make any universal claim.
+I believe many people overestimate how often a smart phone is necessary, 
+but clearly it depends on what's happening in your life and I do not intend to make any universal claim.
 
 I could tell that I exhibited certain compulsive negative habits with relationship to my smart phone,
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
@@ -127,7 +128,7 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 
 —
 
-You can also buy a physical zine I made in collaboration with Catherine Schmidt about
+You can buy a physical zine I made in collaboration with Catherine Schmidt about
 disconnection practices as healing practices here:
 
 --> [Disconnection Practices](/zines/disconnection-practices) 
