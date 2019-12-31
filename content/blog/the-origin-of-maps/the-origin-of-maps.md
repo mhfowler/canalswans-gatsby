@@ -2,7 +2,9 @@
 path: "/posts/the-origin-of-maps"
 date: "2019-12-20T23:19:51.246Z"
 title: "The Origin Of Maps"
+description: "going offline as a form of direct action"
 type: "blog"
+image: "/content/blog/the-origin-of-maps/img/map5.png"
 note: "Max Fowler"
 ---
 
