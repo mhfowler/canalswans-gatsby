@@ -6,7 +6,7 @@ var classNames = require('classnames')
 const CSHelmet = (props) => {
   return (
       <Helmet
-          title="Canal Swans"
+          title="canalswans.net"
           meta={[
             {name: 'description', content: 'an online-retail-conglomerate maintained by Max Fowler.'},
             {name: 'keywords', content: 'writing'},
