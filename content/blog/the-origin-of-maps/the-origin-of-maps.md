@@ -8,8 +8,9 @@ note: "Max Fowler"
 
 The origin of all maps is direct experience. Direct experience is a source of knowledge and energy which is always available and has no substitute.[^1] 
 
-This is a reflection on my ongoing experiments into accessing this well. 
-What are the pathways immediately around us that lead to information being transmitted into our eyes? 
+This is a reflection into my ongoing experiments changing my relationship with phones, screens and the internet, as a way of reconnecting
+with this well.
+What are the pathways immediately around us that lead to information being transmitted into our eyes and ears? 
 What effects do these structures have on us? 
 What agency do we have in how we relate to them? 
 
@@ -28,7 +29,7 @@ Hey!
 On November 18th of 2018
 I decided that I would try to use a flip-phone for somewhere between three months and a year, 
 along with keeping a journal of emotions that arose for me during the process, 
-marking on a calendar any days where I caved and used my smart phone, 
+marking on a calendar any days where I used my smart phone, 
 building [a robotic machine](http://mfowler.info/work/disconnection-practices) which physically childblocks your smart phone, 
 and creating a collection of all the maps I drew for navigating the city while using the flip-phone.
 
@@ -52,16 +53,14 @@ According to the journal, on December 14th, I imagined titling this collection o
 For me, using a flip-phone was an effort to call into question what is truly nourishing
 and not passively accept the status quo.
 I didn't want to do something speculative. 
-Even if small, I wanted to make a concrete change to my life to prioritize direct experience and rest, a form of direct action. 
-I considered it to be a ritual in tribute to mindfulness more than an experiment with a single result.
-I believe many people overestimate how often a smart phone is necessary, 
-but clearly it depends on what's happening in your life and I do not intend to make any universal claim.
+Even if small, I wanted to make a concrete change to my life to prioritize direct experience and rest, a form of direct action.
+I considered it more as a ritual in tribute to mindfulness than an experiment with a single result. 
+I think many people overestimate how often a smart phone is necessary,
+but it depends on what's happening in your life and I do not intend to make any universal claim.
 
 I could tell that I exhibited certain compulsive negative habits with relationship to my smart phone,
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
-I questioned in what ways this surveillance-funded gadget made from rare earth minerals was truly serving me.
-
-—
+I questioned in what ways this surveillance-funded gadget made from rare earth metals was truly serving me.
 
 Here are my journal entries from the first 10 days after I decided to use a flip-phone:
 
@@ -126,28 +125,24 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 
 <br/>
 
-—
-
-You can buy a physical zine I made in collaboration with Catherine Schmidt about
-disconnection practices as healing practices here:
+I also made a physical zine with <a href="http://cath.land">Catherine Schmidt</a> about
+disconnection practices as healing practices. If you would like to read it, you can order a copy here:
 
 --> [Disconnection Practices](/zines/disconnection-practices) 
 
-—
+&mdash; 
 
 I also wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
 I then continued to use the dumb phone for the rest of the year until November 29 of 2019, except for a period when I was in the US without a working sim card. 
 I particularly look back highly on the first three months where I felt a lot of excitement and newness. 
 I am currently using my smart phone again and I may take more time away in the future. 
 I especially dream of being in more situations where I am so engaged with my surroundings that my smart phone ends 
-up staying in my bag out of batteries for days without me noticing. Disconnection practices can be 
-a tool to help us reconnect with our senses and prioritize rest in the interim. 
+up staying in my bag out of batteries for days without me noticing. Disconnection practices can be a tool to help us reconnect with our senses in the interim. 
 
-—
-
-In various states of connection and rest,   
-M
-
+<figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
+    <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
+    <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
+</figure>
 
 Related Resources:
 
