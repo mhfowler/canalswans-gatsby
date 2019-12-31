@@ -3,6 +3,7 @@ path: "/posts/murmurations"
 date: "2019-09-06T23:19:51.246Z"
 title: "Murmurations"
 type: "blog"
+author: "Max Fowler"
 note: "Max Fowler"
 ---
 This Saturday I was hoping to organize an event at Sari-Sari in support/alignment with a decentralized Extinction Rebellion action happening that day called “Paint The Streets”
