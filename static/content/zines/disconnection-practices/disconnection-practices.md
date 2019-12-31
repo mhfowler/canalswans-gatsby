@@ -3,7 +3,7 @@ path: "/zines/disconnection-practices"
 date: "2019-12-20T23:19:51.246Z"
 title: "Disconnection Practices"
 img: "/content/zines/disconnection-practices/img/disconnection-practices.jpeg"
-price: "$15.00"
+price: "$10.00"
 type: "zine"
 ---
 

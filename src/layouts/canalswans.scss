@@ -19,7 +19,7 @@ body {
   .page-wrapper {
     background-size: contain;
     margin: auto;
-    max-width: 750px;
+    max-width: 720px;
     padding-top: 75px;
     width: 90%;
     padding-bottom: 70px;
@@ -164,7 +164,7 @@ body.standard a.hlink {
 }
 
 .aboutWrapper {
-  width: 600px;
+  max-width: 600px;
   margin:auto;
   text-align: left;
 }

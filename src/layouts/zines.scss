@@ -6,18 +6,18 @@
 
   .zineDetail {
     margin-top: 30px;
-    display: flex;
-    align-items: start;
-    flex-direction: row;
 
     .zineTitle {
       font-weight: bold;
+      margin-top: 0px;
     }
 
     .zineImg {
       width: 100%;
       max-width: 400px;
       margin-right: 50px;
+      margin-bottom: 25px;
+      float: left;
     }
 
     .zineWriteup {
