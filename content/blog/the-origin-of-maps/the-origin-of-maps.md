@@ -26,7 +26,6 @@ And commandeer both my eyes
 Hey!
 ```
 [^2]
- 
 
 On November 18th of 2018
 I decided that I would try to use a flip-phone for somewhere between three months and a year, 
@@ -63,6 +62,11 @@ but it depends on what's happening in your life and I do not intend to make any 
 I could tell that I exhibited certain compulsive negative habits with relationship to my smart phone,
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
 I questioned in what ways this surveillance-funded gadget made from rare earth metals was truly serving me.
+
+<figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
+    <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
+    <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
+</figure>
 
 Here are my journal entries from the first 10 days after I decided to use a flip-phone:
 
@@ -132,19 +136,12 @@ disconnection practices as healing practices. If you would like to read it, you 
 
 --> [Disconnection Practices](/zines/disconnection-practices) 
 
-&mdash; 
-
-I also wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
+I wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
 I then continued to use the dumb phone for the rest of the year until November 29 of 2019, except for a period when I was in the US without a working sim card. 
 I particularly look back highly on the first three months where I felt a lot of excitement and newness. 
 I am currently using my smart phone again and I may take more time away in the future. 
 I especially dream of being in more situations where I am so engaged with my surroundings that my smart phone ends 
-up staying in my bag out of batteries for days without me noticing. Disconnection practices can be a tool to help us reconnect with our senses in the interim. 
-
-<figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
-    <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
-    <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
-</figure>
+up staying in my bag out of batteries for days without me noticing. Disconnection practices can be a tool to help us reconnect with our senses and find rest in the interim.
 
 Related Resources:
 
