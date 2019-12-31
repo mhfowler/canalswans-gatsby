@@ -62,6 +62,8 @@ I could tell that I exhibited certain compulsive negative habits with relationsh
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
 I questioned in what ways this surveillance-funded gadget made from rare earth metals was truly serving me.
 
+&mdash;
+
 Here are my journal entries from the first 10 days after I decided to use a flip-phone:
 
 >day 1 (sunday)  
