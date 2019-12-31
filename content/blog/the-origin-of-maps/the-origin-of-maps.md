@@ -2,7 +2,6 @@
 path: "/posts/the-origin-of-maps"
 date: "2019-12-20T23:19:51.246Z"
 title: "The Origin Of Maps"
-description: "direct experience as an infinite well of energy, going offline as a form of direct action, and using a flip-phone"
 author: "Max Fowler"
 type: "blog"
 image: "/content/blog/the-origin-of-maps/img/map5.png"
@@ -62,11 +61,6 @@ but it depends on what's happening in your life and I do not intend to make any 
 I could tell that I exhibited certain compulsive negative habits with relationship to my smart phone,
 and from VR to AI I could see that the tech industry was full of overhyped narratives. 
 I questioned in what ways this surveillance-funded gadget made from rare earth metals was truly serving me.
-
-<figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
-    <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
-    <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
-</figure>
 
 Here are my journal entries from the first 10 days after I decided to use a flip-phone:
 
@@ -149,6 +143,11 @@ Related Resources:
 - [Flight Simulator](https://flightsimulator.soft.works/)
 - [Empty Day](https://emptyday.today/) 
 
+
+<figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
+    <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
+    <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
+</figure>
 
 
 [^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way. If I needed a definition of direct for this writing, it might be "without being recorded".   
