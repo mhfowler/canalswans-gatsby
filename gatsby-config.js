@@ -1,9 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Canal Swans`,
-    description: `Canal Swans is a blog/website/publishing-platform/distribution-channel/online-retail-conglomerate maintained by Max Fowler`,
+    title: `canalswans.net`,
+    titleTemplate: `%s`,
+    description: `an online-retail-conglomerate maintained by Max Fowler`,
     author: `Max Fowler`,
-    siteUrl: `http://canalswans.net`
+    image: `/img/triangles.png`,
+    siteUrl: `http://canalswans.net`,
+    twitterUsername: '@notplants'
   },
   plugins: [
     'gatsby-plugin-sass',

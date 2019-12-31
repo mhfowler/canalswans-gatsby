@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Header from '../components/Header.js'
 import CSHelmet from '../components/CSHelmet.js'
+import SEO from '../components/SEO.js'
 import Footer from '../components/Footer.js'
 import SLink from '../components/SLink.js'
 import "./moods.scss"
@@ -30,7 +31,7 @@ class Layout extends React.Component {
     var wrapperClasses = `base-body ${this.state.mood} ${this.props.pageType}`
     return (
       <div className={wrapperClasses}>
-        <CSHelmet mood={this.state.mood}/>
+        <SEO {...this.props} mood={this.state.mood}/>
         <Header mood={this.state.mood} handleMoodClick={this.handleMoodClick}/>
         <div className="page-wrapper">
           <div className="main-wrapper">

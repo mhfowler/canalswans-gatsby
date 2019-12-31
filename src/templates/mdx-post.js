@@ -39,10 +39,10 @@ class MdxArticle extends React.Component {
               style={{
                 display: `block`,
                 'width': '100%',
-                'float': 'left'
+                'float': 'left',
               }}
             >
-              {this.props.post.frontmatter.date}
+              {this.props.post.frontmatter.author ? <span>{this.props.post.frontmatter.author} &bull;</span> : null } {this.props.post.frontmatter.date}
             </p>
             {this.props.post.frontmatter.note ?
               <p
@@ -68,7 +68,6 @@ class MdxArticle extends React.Component {
 
 export default function MdxTemplate({ data: { mdx  }}) {
     const post = mdx
-    var siteTitle = "notplants.info"
     var pageType = post.frontmatter.type;
     if (!pageType) {
       pageType = 'blog;'
@@ -82,7 +81,7 @@ export default function MdxTemplate({ data: { mdx  }}) {
       hideFooter = true;
     }
     return (
-      <Layout noHeader={noHeader} hideFooter={hideFooter} pageType={pageType}>
+      <Layout noHeader={noHeader} hideFooter={hideFooter} pageType={pageType} title={post.frontmatter.title} description={post.frontmatter.description} image={post.frontmatter.image}>
         {(()=> {
           switch (pageType) {
             case 'blog':
@@ -105,7 +104,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
-        img
+        description
+        author
+        image
         price
         type
       }

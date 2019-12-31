@@ -25,7 +25,7 @@ export default class Zine extends React.Component {
       <div className="zineWrapper">
         <Link className="backButton" to="/zines">← Back To All Zines</Link>
         <div className="zineDetail">
-          <img className="zineImg" src={this.props.zine.img}/>
+          <img className="zineImg" src={this.props.zine.image}/>
           <div className="zineWriteup">
             <p className="zineTitle">
               {this.props.zine.title}
