@@ -2,7 +2,7 @@
 path: "/posts/the-origin-of-maps"
 date: "2019-12-20T23:19:51.246Z"
 title: "The Origin Of Maps"
-description: "blog post about direct experience as an infinite well of energy, going offline as a form of direct action, and using a flip-phone"
+description: "direct experience as an infinite well of energy, going offline as a form of direct action, and using a flip-phone"
 author: "Max Fowler"
 type: "blog"
 image: "/content/blog/the-origin-of-maps/img/map5.png"
