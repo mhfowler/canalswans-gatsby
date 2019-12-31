@@ -11,8 +11,7 @@ note: "Max Fowler"
 
 The origin of all maps is direct experience. Direct experience is a source of knowledge and energy which is always available and has no substitute.[^1] 
 
-This is a reflection into my ongoing experiments changing my relationship with phones, screens and the internet, as a way of reconnecting
-with this well.
+This is a reflection into my ongoing experiments accessing this well, by changing my relationship with phones, screens and the internet.
 What are the pathways immediately around us that lead to information being transmitted into our eyes and ears? 
 What effects do these structures have on us? 
 What agency do we have in how we relate to them? 
