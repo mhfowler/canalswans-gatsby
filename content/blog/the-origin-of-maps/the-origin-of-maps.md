@@ -139,18 +139,16 @@ I am currently using my smart phone again and I may take more time away in the f
 I especially dream of being in more situations where I am so engaged with my surroundings that my smart phone ends 
 up staying in my bag out of batteries for days without me noticing. Disconnection practices can be a tool to help us reconnect with our senses and find rest in the interim.
 
-Related Resources:
-
-- [Nap Ministry](https://www.instagram.com/thenapministry/) 
-- [Flight Simulator](https://flightsimulator.soft.works/)
-- [Empty Day](https://emptyday.today/) 
-
-
 <figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
     <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
     <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
 </figure>
 
+Related Resources:
+
+- [Nap Ministry](https://www.instagram.com/thenapministry/) 
+- [Flight Simulator](https://flightsimulator.soft.works/)
+- [Empty Day](https://emptyday.today/) 
 
 [^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way. If I needed a definition of direct for this writing, it might be "without being recorded".   
 [^2]: Lyrics from "Alien Days" by MGMT
