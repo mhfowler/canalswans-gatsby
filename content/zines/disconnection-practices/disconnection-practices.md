@@ -1,5 +1,6 @@
 ---
-path: "/zines/disconnection-practices"
+oldPath: "/zines/disconnection-practices"
+path: "https://gumroad.com/l/pgQxJ"
 date: "2019-12-20T23:19:51.246Z"
 title: "Disconnection Practices"
 image: "/content/zines/disconnection-practices/img/disconnection-practices.jpeg"
