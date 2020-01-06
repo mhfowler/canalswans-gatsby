@@ -1,6 +1,6 @@
 ---
 path: "/posts/the-origin-of-maps"
-date: "2019-12-20T23:19:51.246Z"
+date: "2020-01-05T23:19:51.246Z"
 title: "The Origin Of Maps"
 author: "Max Fowler"
 type: "blog"
