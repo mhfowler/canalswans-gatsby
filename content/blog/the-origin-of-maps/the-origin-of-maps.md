@@ -130,7 +130,7 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 I also made a physical zine with <a href="http://cath.land">Catherine Schmidt</a> about
 disconnection practices as healing practices. If you would like to read it, you can order a copy here:
 
---> [Disconnection Practices](/zines/disconnection-practices) 
+--> [Disconnection Practices](https://gumroad.com/l/pgQxJ) 
 
 I wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
 I then continued to use the dumb phone for the rest of the year until November 29 of 2019, except for a period when I was in the US without a working sim card. 
