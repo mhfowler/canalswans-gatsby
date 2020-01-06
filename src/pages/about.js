@@ -13,10 +13,12 @@ const IndexPage = () => (
       {/*  This is a blog for sharing writing, notes, sketches and other fragments.*/}
       {/*  <span style={{"margin-top": "10px", "display": "block"}}> Maintained by <a href="http://mfowler.info">Max Fowler</a>. </span>*/}
       {/*</p>*/}
-      <div className="aboutLinks">
-          <SLink className="hlink" to='/rss.xml'>rss</SLink>
-          <SLink className="hlink" to='http://tinyletter.com/notplants/'>newsletter</SLink>
-          <SLink className="hlink" to='http://twitter.com/notplants/'>twitter</SLink>
+      <div className="aboutLinksWrapper">
+        <table className="aboutLinks">
+            <SLink className="hlink" to='/rss.xml' style={{'margin-right': '20px'}}>rss</SLink>
+            <SLink className="hlink" to='http://tinyletter.com/notplants/'>newsletter</SLink>
+            <SLink className="hlink" to='http://twitter.com/notplants/' style={{'margin-left': '20px'}}>twitter</SLink>
+        </table>
       </div>
     </div>
   </Layout>

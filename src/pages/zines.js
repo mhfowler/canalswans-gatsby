@@ -1,13 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Link } from "gatsby"
+import SLink from '../components/SLink'
 import Layout from "../layouts/layout.js"
 
 const PostLink = ({ post }) => (
   <div>
-    <Link to={post.frontmatter.path}>
+    <SLink to={post.frontmatter.path}>
       {post.frontmatter.title} ({post.frontmatter.date})
-    </Link>
+    </SLink>
   </div>
 )
 

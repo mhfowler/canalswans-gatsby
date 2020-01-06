@@ -103,10 +103,12 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         path
+        gumroadPath
         title
         description
         author
         image
+        images
         price
         type
       }

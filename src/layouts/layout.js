@@ -39,6 +39,7 @@ class Layout extends React.Component {
           </div>
         </div>
         {!this.props.hideFooter ? <Footer/> : null }
+        <script>paypal.Buttons().render('#paypal-button-container');</script>
       </div>
     )
   }

@@ -88,7 +88,9 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String,
       title: String,
       image: String,
+      images: [String],
       path: String,
+      gumroadPath: String,
       type: String,
       note: String,
       author: String

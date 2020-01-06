@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { Link } from "gatsby"
 import Layout from "../layouts/layout.js"
+import SLink from "../components/SLink";
 
 const PostLink = ({ post }) => (
   <div>
@@ -24,6 +25,9 @@ const IndexPage = ({
       <div className="toc-wrapper">
         <p className="table-of-contents">Table Of Contents</p>
         <div className="posts-wrapper">{Posts}</div>
+      </div>
+      <div className="rssWrapper">
+          <SLink className="hlink" to='/rss.xml'>rss</SLink>
       </div>
     </Layout>
   )

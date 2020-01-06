@@ -42,9 +42,11 @@ export default class Zine extends React.Component {
               &mdash;
             </p>
             <p>
-                You can order this zine via gumroad with the link below:
+                You can purchase this zine with paypal. You will be asked for a shipping
+                address as part of the checkout.
             </p>
-            <a href={this.props.zine.gumroadPath} className="gumroadLink">Purchase On Gumroad</a>
+             <div className="checkoutWrapper" dangerouslySetInnerHTML={{__html: payPal}}></div>
+             <br/>
              <p>
               Or you can order a zine by paying me on venmo @Max-Fowler, and
               emailing me at maxhfowler@gmail.com with
