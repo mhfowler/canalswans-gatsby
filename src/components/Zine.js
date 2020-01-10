@@ -46,7 +46,7 @@ export default class Zine extends React.Component {
             </p>
             <a href={this.props.zine.gumroadPath} className="gumroadLink">Purchase On Gumroad</a>
              <p>
-              Or you can order a zine by paying me on venmo @Max-Fowler, and
+               Or you can order a zine by paying me on venmo <a href="https://venmo.com/Max-Fowler">@Max-Fowler</a>, and
               emailing me at maxhfowler@gmail.com with
               your shipping address and what zine you would like.
              </p>

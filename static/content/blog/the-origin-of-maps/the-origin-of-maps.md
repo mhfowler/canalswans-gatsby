@@ -1,6 +1,6 @@
 ---
 path: "/posts/the-origin-of-maps"
-date: "2019-12-20T23:19:51.246Z"
+date: "2020-01-08T23:19:51.246Z"
 title: "The Origin Of Maps"
 author: "Max Fowler"
 type: "blog"
@@ -10,7 +10,6 @@ note: "Max Fowler"
 
 The origin of all maps is direct experience. Direct experience is a source of knowledge and energy which is always available and has no substitute.[^1] 
 
-This is a reflection into my ongoing experiments accessing this well.
 What are the pathways immediately around us that lead to information being transmitted into our eyes and ears? 
 What effects do these structures have on us? 
 What agency do we have in how we relate to them? 
@@ -130,7 +129,7 @@ Here are my journal entries from the first 10 days after I decided to use a flip
 I also made a physical zine with <a href="http://cath.land">Catherine Schmidt</a> about
 disconnection practices as healing practices. If you would like to read it, you can order a copy here:
 
---> [Disconnection Practices](/zines/disconnection-practices) 
+--> [Disconnection Practices](https://gumroad.com/l/pgQxJ) 
 
 I wrote a bit about ups and downs I went through of wanting to “end the project” and go back to using my smart phone at different points, and how ultimately I “gave up” in May but then two days later I went back to using my dumb phone by choice and I didn’t feel as agitated anymore when it was now no longer part of an experiment but just something I was doing and could stop whenever I wanted. 
 I then continued to use the dumb phone for the rest of the year until November 29 of 2019, except for a period when I was in the US without a working sim card. 
@@ -145,12 +144,10 @@ Related Resources:
 - [Flight Simulator](https://flightsimulator.soft.works/)
 - [Empty Day](https://emptyday.today/) 
 
-
 <figure class="dumbPhoneWrapper" style="{{'maxWidth':'500px', 'display': 'flex', 'margin':'auto', 'margin-top': '20px'}}">
     <img src="/content/blog/the-origin-of-maps/img/dumb-phone.png" className="figureImage" style="{{'width': '100%'}}" />
     <figcaption>"where are my books which dumb ass steals my books" - one of three text messages saved in drafts of used phone I bought on November 18 of 2018</figcaption>
 </figure>
-
 
 [^1]: As a short philosophical digression, one could argue that even our "direct" visual perception is mediated by culture and our past experience and so in some sense is also not direct. On the other hand, we all know the difference between hearing someone tell you what someone else said (a form of mediation) and hearing it directly. So like many philosophical questions, we can see that there is some ambiguity, but also like touching our nose with our finger or breathing there are lots of things we can do without knowing exactly how we do it, and we can still speak about a spectrum from more direct to less direct in a useful way. If I needed a definition of direct for this writing, it might be "without being recorded".   
 [^2]: Lyrics from "Alien Days" by MGMT

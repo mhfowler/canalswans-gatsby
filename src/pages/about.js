@@ -15,7 +15,7 @@ const IndexPage = () => (
       {/*</p>*/}
       <div className="aboutLinksWrapper">
         <table className="aboutLinks">
-            <SLink className="hlink" to='/rss.xml' style={{'margin-right': '20px'}}>rss</SLink>
+            <a className="hlink" href="/rss.xml" style={{'margin-right': '20px'}}>rss</a>
             <SLink className="hlink" to='http://tinyletter.com/notplants/'>newsletter</SLink>
             <SLink className="hlink" to='http://twitter.com/notplants/' style={{'margin-left': '20px'}}>twitter</SLink>
         </table>
