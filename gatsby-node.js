@@ -98,3 +98,7 @@ exports.createSchemaCustomization = ({ actions }) => {
   `
   createTypes(typeDefs)
 }
+
+exports.onCreateDevServer=({app})=>{
+    app.use(express.static('public'))
+}
