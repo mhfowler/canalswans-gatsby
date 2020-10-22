@@ -145,8 +145,8 @@ during 2017 (a year with a particularly bad flu season).
 The number of excess deaths widely reported is based on how many people died week by week compared to the same
 week in previous years, but this doesn't give a higher level picture of the impact of the pandemic.
 
-Again this isn't to say that people are not dying from Corona, but to put it into perspective,
-and show that when you zoom out a bit, its closer to a bad flu season.
+Again this isn't to say that people are not dying from Corona, but that we to need to contextualize
+the risks in order to make sound decisions.
 
 
 <br/><br/>
