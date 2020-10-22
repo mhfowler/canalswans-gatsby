@@ -4,9 +4,9 @@ date: "2020-10-21T23:19:51.246Z"
 title: "The War On Pathogens"
 author: "Max Fowler"
 type: "blog"
-image: "/content/blog/the-origin-of-maps/img/map5.png"
+image: "/content/blog/the-war-on-pathogens/img/covid-risk.png"
 note: "Max Fowler"
-draft: true
+draft: "true"
 ---
 
 This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term,
