@@ -114,7 +114,7 @@ The global response to the pandemic is an unprecedented public health strategy w
 Trump is a xenophobic racist and terrible president, but strangely I agree with his repeated tweets that the
 media fixation on cases doesn't make sense.
 
-The graph below shows the disconnection between global number of cases and deaths.
+The graph below, from [Our World In Data](https://ourworldindata.org/grapher/daily-covid-cases-deaths?time=2020-01-01..latest), shows the disconnection between global number of cases and deaths.
 
 <figure>
   <img src="/content/blog/the-war-on-pathogens/img/cases-and-deaths.png" className="figureImage" style="{{'width': '100%'}}" />
