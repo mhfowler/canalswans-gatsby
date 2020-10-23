@@ -1,5 +1,5 @@
 ---
-path: "/posts/the-war-on-pathogens"
+path: "/posts/the-war-on-pathogens2"
 date: "2020-10-21T23:19:51.246Z"
 title: "The War On Pathogens"
 author: "Max Fowler"
@@ -20,7 +20,7 @@ It can both be true that deaths from disease are heartbreaking and that extreme 
 a continuation of previous media and cultural trends.
 
 As much as we can imagine that its better to be safe than sorry,
-this sentiment can apply equally to the harms from Corona as to harms from the unprecedented lockdown.
+this sentiment can apply equally to the harms from Corona as to the harms from the unprecedented lockdown.
 I hope these resources can be an offering towards more holistic perspectives on public health wherever that leads.
 
 
@@ -125,7 +125,7 @@ Other sources also point to this, even including the [New York Times](https://ww
 but reporting based on cases continues to center fear.
 
 Fear-based reporting is perhaps best exemplified by the trend of reporting the number of Corona deaths in terms of multiples of 9/11,
-an event which was itself perhaps the most politicized and utilized-to-incite-fear event in recent history, hardly a sane reference point.
+an event which was itself perhaps the most politicized and utilized-to-incite-fear event in recent history, and hardly a sane reference point.
 
 <br/><br/>
 <b class="section-header">Security Theatre</b>
@@ -140,6 +140,22 @@ by public perception of liablity, moralizing and germophobia, with varying level
 Some examples,
 - [Schools Aren’t Super-Spreaders, Fears from the summer appear to have been overblown](https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/)
 - [Corona is not easily transmitted through surfaces](https://medicalxpress.com/news/2020-09-covid-infections-respiratory-droplets-aerosols.html?fbclid=IwAR0daSP2vCyfUlxxVtS6SGB9RVCeNPHgoxBPWoIZbUWjK0p6n9LaiPp-lyY), yet 'deep cleaning' helps people feel more at ease ([e.g. deep-cleaning new york subway](https://www.dailymail.co.uk/news/article-8291771/New-York-subway-closes-time-workers-perform-deep-clean-Covid-19-lockdown.html))
+
+
+<br/><br/>
+<b class="section-header">Excess Death</b>
+
+I want to put something here (but I need to research to refind it, but I'm getting tired now)
+that I saw that projected that even if deaths continued in the US
+at the rate they have so far this year (not taking into account that the first wave was the biggest),
+the total number of all-cause deaths in the US would not exceed the total number of deaths in the US
+during 2017 (a year with a particularly bad flu season).
+
+The number of excess deaths widely reported is based on how many people died week by week compared to the same
+week in previous years, but this doesn't give a higher level picture of the impact of the pandemic.
+
+Again this isn't to say that people are not dying from Corona, but that we to need to contextualize
+the risks in order to make sound decisions.
 
 
 <br/><br/>
@@ -168,13 +184,7 @@ Perhaps if we could have had a perfect lockdown in March we could have prevented
 the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic,
 and that learning how to live with it is part of the work of our time.
 
-Recently I dislike the way that most writing online ends.
-As though everything needs to be tied into a bow for jury submission.
-Given that I see polarization as part of the problem,
-I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
-Separate from the framework of thesis-counterthesis, I hope some pieces of this might
-be a source of grounding, inspiration or new perspective. The next sections are about conspiracy theories as a form of myth.
-
+Recently, I've been
 
 <div class="blue-line-break"></div>
 
@@ -191,6 +201,8 @@ While 'Conspiracy Theory' is often used as a term to dismiss an argument, its wo
 For a nuanced discussion of the history and role of conspiracy theories, which acknowledges that they
 can both contain truths and also mislead, I recommend this podcast:<br/>
 [Microdose: Erik Davis on the Cosmic Right](https://novaramedia.com/2020/08/13/microdose-erik-davis-on-the-cosmic-right/)
+
+from the podcast, "need to get this quote"
 
 I also appreciate Carl Jung's notion that even when not literally true, conspiracy theories often have some
 seed of truth to them, and can be interpreted through a form of dream interpretation.
@@ -218,6 +230,8 @@ healing or informative, depending on how you engage with it.
 With this introduction, here are some less accredited sources on this topic, to be navigated with your own
 discernment to guide you.
 
+
+<br/><br/>
 <br/><br/>
 <b class="section-header">Banned Accounts And Books</b>
 
@@ -228,17 +242,8 @@ Alec Zeck ([instagram](https://www.instagram.com/alec.zeck/), [telegram](https:/
 [The Contagion Myth](https://www.simonandschuster.com/books/The-Contagion-Myth/Thomas-S-Cowan/9781510764620)
 
 <br/><br/>
-<b class="section-header">Charles Eisenstein, Conspiracy Theories As Myth</b>
-
-[The Conspiracy Myth](https://charleseisenstein.org/essays/the-conspiracy-myth/)<br/>
-[On the racism behind criticism of hydroxychloroquine](https://charleseisenstein.org/essays/the-banquet-of-whiteness/)<br/>
-[The Coronation](https://charleseisenstein.org/essays/the-coronation/)<br/>
-
-These three pieces by Eisenstein are long but good and really go beyond the surface left vs right, lockdown vs anti-lockdown framework.
-
-
 <br/><br/>
-<b class="section-header">Epigraph</b><br/><br/>
+<b class="section-header">Epigraph</b><br/>
 <a class="epigraph" href="https://newworldwriting.net/tao-lin-meditation/">
     A Poem By Tao Lin titled "Meditation"
 </a>
