@@ -149,7 +149,7 @@ Some examples,
 
 While Long Covid is a real concern (my mom experienced a form of it, having symptoms for 4 weeks after getting Covid),
 next to the harms of lockdown, justifying lockdown in terms of long covid seems like a sort of shifting ground argument
-and hard to get behind.
+and hard to universalize.
 
 Ultimately our assessment of risks will involve many different factors. My feeling is not that Covid isn't real,
 but that a number of societal biases have effected the way that it is understood, leading to disproportionate
