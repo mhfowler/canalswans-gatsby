@@ -155,8 +155,7 @@ For people who work on the computer, have stable home situations and are less ef
 they will see the tradeoffs differently.
 
 Ultimately our assessment of risks will involve many different factors. My feeling is not that Covid isn't real,
-but that a number of societal biases have effected the way that it is understood, leading to disproportionate
-responses on an individual and collective level.
+but that a number of societal biases have effected the way that it is understood.
 
 
 <br/><br/>
