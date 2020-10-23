@@ -161,7 +161,7 @@ but that a number of societal biases have effected the way that it is understood
 <br/><br/>
 <b class="section-header">Root Causes</b>
 
-The societal bias that lockdown is good for public health is an outgrowth from the colonial perspective that humans are separate from nature,
+The societal bias that lockdown is good for public health is an outgrowth from the colonial perspective that humans are separate from nature
 and that the human body is a pure sterile space (ignoring the microbiome and that humans actually have an ecological relationship with viruses and bacteria).
 This bias continues capitalist trends towards alienation from nature, each other, and our bodies, and furthers the deterioration of our health,
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
