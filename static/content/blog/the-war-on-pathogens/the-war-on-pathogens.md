@@ -90,7 +90,7 @@ which feels more relevant than other metrics.
 <b class="section-header">Harms From Lockdown</b>
 
 The harms from lockdown are various and many may never be fully quantified or even known. Some are very direct, like
-the [525,000 additional people projected to die in 2021](https://medicalxpress.com/news/2020-09-covid-annual-tb-deaths.html) from tuberculosis because of decreased access to care because of corona restrictions.
+the [525,000 additional people projected to die in 2021](https://medicalxpress.com/news/2020-09-covid-annual-tb-deaths.html) from tuberculosis because of decreased access to care.
 Other effects are more insidious &mdash; what are the long-term effects on children being taught to fear other children and physical closeness?
 
 Here are some of the effects already being seen,
@@ -161,7 +161,7 @@ but that a number of societal biases have effected the way that it is understood
 <br/><br/>
 <b class="section-header">Root Causes</b>
 
-The societal bias that lockdown is good for public health is an outgrowth from the colonial perspective that humans are separate from nature,
+The societal bias that lockdown is good for public health is an outgrowth from the colonial perspective that humans are separate from nature
 and that the human body is a pure sterile space (ignoring the microbiome and that humans actually have an ecological relationship with viruses and bacteria).
 This bias continues capitalist trends towards alienation from nature, each other, and our bodies, and furthers the deterioration of our health,
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
@@ -175,7 +175,7 @@ As though everything needs to be tied into a bow for jury submission.
 Given that I see polarization as part of the problem,
 I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
 Separate from the framework of thesis-counterthesis, I hope some pieces of this might
-be a source of grounding, inspiration or new perspective. The next sections are about conspiracy theories as a form of myth.
+be a source of grounding, inspiration or perspective. The next sections are about conspiracy theories as a form of myth.
 
 
 <div class="blue-line-break"></div>
