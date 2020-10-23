@@ -12,16 +12,16 @@ draft: "true"
 This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term,
 organized into sections.
 
-It includes arguments from leading epidemiologists at the top,
-and from less accredited sources at the bottom, a blue line denotes the separation.
+It includes arguments from epidemiologists at the top,
+and from less accredited sources at the bottom along with an exploration of the role of conspiracy theories as myths,
+a blue line denotes the separation.
 
-It can both be true that deaths from disease are heartbreaking and that extreme reaction to disease does more harm than good. Media polarization and sensationalism forces discussions into binaries, which has led to simplistic models and fear-based reactions,
+It can both be true that deaths from disease are heartbreaking and that extreme reaction to disease does more harm than good. Media polarization and sensationalism accelerates discussions into binaries, which has led to simplistic models and fear-based reactions,
 a continuation of previous media and cultural trends.
 
 As much as we can imagine that its better to be safe than sorry,
-this sentiment can apply equally to the harms of Corona as to the harms from the unprecedented lockdown.
-This document is intended as an offering towards more holistic perspectives
-on public health wherever that leads.
+this sentiment can apply equally to the harms from Corona as to harms from the unprecedented lockdown.
+I hope these resources can be an offering towards more holistic perspectives on public health wherever that leads.
 
 
 <br/><br/>
@@ -105,16 +105,15 @@ Here are some of the effects already being seen,
 
 This is just a sample, but the scale and diversity of impacts suggest this a pointer to the iceberg.
 
-The global response to the pandemic is an unprecedented public health strategy with unknown consequences.
-
 
 <br/><br/>
 <b class="section-header">Cases, Testing & Media Coverage</b>
 
-Trump is a xenophobic racist and terrible president, but strangely I agree with his repeated tweets that the
-media fixation on cases doesn't make sense.
+It would probably be a whole other book to look specifically at how the state of the media is effecting
+the cultural and scientific discourse.
 
-The graph below shows the disconnection between global number of cases and deaths.
+One small piece of this is reporting corona cases on a daily basis.
+The graph below, from [Our World In Data](https://ourworldindata.org/grapher/daily-covid-cases-deaths?time=2020-01-01..latest), shows the disconnection between global number of cases and deaths.
 
 <figure>
   <img src="/content/blog/the-war-on-pathogens/img/cases-and-deaths.png" className="figureImage" style="{{'width': '100%'}}" />
@@ -126,28 +125,7 @@ Other sources also point to this, even including the [New York Times](https://ww
 but reporting based on cases continues to center fear.
 
 Fear-based reporting is perhaps best exemplified by the trend of reporting the number of Corona deaths in terms of multiples of 9/11,
-a metric which can only be understood as trying to maximize fear of the virus.
-
-Firstly deaths from 9/11 are a completely different type of death than from disease,
-and secondly 9/11 was itself perhaps the most politicized and utilized-to-incite-fear deaths in human history,
-
-
-
-<br/><br/>
-<b class="section-header">Excess Death</b>
-
-I want to put something here (but I need to research to refind it, but I'm getting tired now)
-that I saw that projected that even if deaths continued in the US
-at the rate they have so far this year (not taking into account that the first wave was the biggest),
-the total number of all-cause deaths in the US would not exceed the total number of deaths in the US
-during 2017 (a year with a particularly bad flu season).
-
-The number of excess deaths widely reported is based on how many people died week by week compared to the same
-week in previous years, but this doesn't give a higher level picture of the impact of the pandemic.
-
-Again this isn't to say that people are not dying from Corona, but to put it into perspective,
-and show that when you zoom out a bit, its closer to a bad flu season.
-
+an event which was itself perhaps the most politicized and utilized-to-incite-fear event in recent history, hardly a sane reference point.
 
 <br/><br/>
 <b class="section-header">Security Theatre</b>
@@ -188,8 +166,15 @@ which truly was already in a public health crisis long before corona (from pesti
 
 Perhaps if we could have had a perfect lockdown in March we could have prevented
 the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic,
-and that learning how to live with it is part of the work of our generation.
-I hope we are able to collectively imagine "new normals" beyond the war on pathogens.
+and that learning how to live with it is part of the work of our time.
+
+Recently I dislike the way that most writing online ends.
+As though everything needs to be tied into a bow for jury submission.
+Given that I see polarization as part of the problem,
+I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
+Separate from the framework of thesis-counterthesis, I hope some pieces of this might
+be a source of grounding, inspiration or new perspective. The next sections are about conspiracy theories as a form of myth.
+
 
 <div class="blue-line-break"></div>
 
@@ -206,8 +191,6 @@ While 'Conspiracy Theory' is often used as a term to dismiss an argument, its wo
 For a nuanced discussion of the history and role of conspiracy theories, which acknowledges that they
 can both contain truths and also mislead, I recommend this podcast:<br/>
 [Microdose: Erik Davis on the Cosmic Right](https://novaramedia.com/2020/08/13/microdose-erik-davis-on-the-cosmic-right/)
-
-from the podcast, "need to get this quote"
 
 I also appreciate Carl Jung's notion that even when not literally true, conspiracy theories often have some
 seed of truth to them, and can be interpreted through a form of dream interpretation.
@@ -235,8 +218,6 @@ healing or informative, depending on how you engage with it.
 With this introduction, here are some less accredited sources on this topic, to be navigated with your own
 discernment to guide you.
 
-
-<br/><br/>
 <br/><br/>
 <b class="section-header">Banned Accounts And Books</b>
 
@@ -246,7 +227,18 @@ Greenmedinfo ([instagram](https://www.instagram.com/greenmedinfo2/), [telegram](
 Alec Zeck ([instagram](https://www.instagram.com/alec.zeck/), [telegram](https://t.me/TheWayFwrd))<br/>
 [The Contagion Myth](https://www.simonandschuster.com/books/The-Contagion-Myth/Thomas-S-Cowan/9781510764620)
 
+<br/><br/>
+<b class="section-header">Charles Eisenstein, Conspiracy Theories As Myth</b>
 
+[The Conspiracy Myth](https://charleseisenstein.org/essays/the-conspiracy-myth/)<br/>
+[On the racism behind criticism of hydroxychloroquine](https://charleseisenstein.org/essays/the-banquet-of-whiteness/)<br/>
+[The Coronation](https://charleseisenstein.org/essays/the-coronation/)<br/>
+
+These three pieces by Eisenstein are long but good and really go beyond the surface left vs right, lockdown vs anti-lockdown framework.
+
+
+<br/><br/>
+<b class="section-header">Epigraph</b><br/><br/>
 <a class="epigraph" href="https://newworldwriting.net/tao-lin-meditation/">
     A Poem By Tao Lin titled "Meditation"
 </a>
