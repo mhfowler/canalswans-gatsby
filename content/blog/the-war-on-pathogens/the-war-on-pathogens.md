@@ -90,7 +90,7 @@ which feels more relevant than other metrics.
 <b class="section-header">Harms From Lockdown</b>
 
 The harms from lockdown are various and many may never be fully quantified or even known. Some are very direct, like
-the [525,000 additional people projected to die in 2021](https://medicalxpress.com/news/2020-09-covid-annual-tb-deaths.html) from tuberculosis because of decreased access to care because of corona restrictions.
+the [525,000 additional people projected to die in 2021](https://medicalxpress.com/news/2020-09-covid-annual-tb-deaths.html) from tuberculosis because of decreased access to care.
 Other effects are more insidious &mdash; what are the long-term effects on children being taught to fear other children and physical closeness?
 
 Here are some of the effects already being seen,
