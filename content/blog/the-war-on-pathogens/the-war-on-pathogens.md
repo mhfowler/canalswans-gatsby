@@ -175,7 +175,7 @@ As though everything needs to be tied into a bow for jury submission.
 Given that I see polarization as part of the problem,
 I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
 Separate from the framework of thesis-counterthesis, I hope some pieces of this might
-be a source of grounding, inspiration or new perspective. The next sections are about conspiracy theories as a form of myth.
+be a source of grounding, inspiration or perspective. The next sections are about conspiracy theories as a form of myth.
 
 
 <div class="blue-line-break"></div>
