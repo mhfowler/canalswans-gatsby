@@ -151,8 +151,8 @@ While Long Covid is a real concern (my mom experienced a form of it, having symp
 next to the harms of lockdown, justifying lockdown in terms of long covid seems like a sort of shifting ground argument
 and hard to universalize.
 
-Anecdotally I've noticed that the people I meet who are the biggest advocates for strong lockdowns
-have been people who work on the computer, have stable home situations and are least effected by restrictions.
+For people who work on the computer, have stable home situations and are less effected by restrictions,
+they will see the tradeoffs differently.
 
 Ultimately our assessment of risks will involve many different factors. My feeling is not that Covid isn't real,
 but that a number of societal biases have effected the way that it is understood, leading to disproportionate
