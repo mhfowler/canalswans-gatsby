@@ -5,6 +5,7 @@ title: "The War On Pathogens"
 author: "Max Fowler"
 type: "blog"
 image: "/content/blog/the-war-on-pathogens/img/covid-risk.png"
+description: "a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term, organized into sections"
 note: "Max Fowler"
 draft: "true"
 ---
@@ -145,7 +146,6 @@ Some examples,
 <br/><br/>
 <b class="section-header">Long Covid</b>
 
-<br/><br/>
 
 While Long Covid is a real concern (my mom experienced a form of it, having symptoms for 4 weeks after getting Covid),
 next to the harms of lockdown, justifying lockdown in terms of long covid seems like a sort of shifting ground argument
@@ -167,7 +167,7 @@ This bias continues capitalist trends towards alienation from nature, each other
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
 
 Perhaps if we could have had a perfect lockdown in March we could have prevented
-the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic.
+the spread of the virus entirely. But given that didn't happen, it seems likely Covid will become endemic like other coronaviruses.
 There are many better new normals one could imagine instead of "the war on pathogens"
 even if that would be the most profitable for the pharmaceutical companies.
 
