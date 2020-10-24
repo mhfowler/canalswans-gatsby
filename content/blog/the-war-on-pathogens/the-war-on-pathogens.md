@@ -167,9 +167,9 @@ This bias continues capitalist trends towards alienation from nature, each other
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
 
 Perhaps if we could have had a perfect lockdown in March we could have prevented
-the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic,
-and there are many better new normals we can imagine instead of "the war on pathogens",
-even if thats most profitable for the pharmaceutical companies.
+the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic.
+There are many better new normals one could imagine instead of "the war on pathogens"
+even if that would be the most profitable for the pharmaceutical companies.
 
 
 
