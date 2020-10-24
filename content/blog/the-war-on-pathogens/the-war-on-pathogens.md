@@ -5,6 +5,7 @@ title: "The War On Pathogens"
 author: "Max Fowler"
 type: "blog"
 image: "/content/blog/the-war-on-pathogens/img/covid-risk.png"
+description: "a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term, organized into sections"
 note: "Max Fowler"
 draft: "true"
 ---
