@@ -167,15 +167,18 @@ This bias continues capitalist trends towards alienation from nature, each other
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
 
 Perhaps if we could have had a perfect lockdown in March we could have prevented
-the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic,
-and that learning how to live with it is part of the work of our time.
+the spread of the virus entirely. But given that didn't happen, it seems likely Corona will become endemic.
+There are many better new normals one could imagine instead of "the war on pathogens"
+even if that would be the most profitable for the pharmaceutical companies.
+
+
 
 Recently I dislike the way that most writing online ends.
 As though everything needs to be tied into a bow for jury submission.
 Given that I see polarization as part of the problem,
 I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
 Separate from the framework of thesis-counterthesis, I hope some pieces of this might
-be a source of grounding, inspiration or perspective. The next sections are about conspiracy theories as a form of myth.
+be a source of grounding, information or perspective. The next sections are about conspiracy theories as a form of myth.
 
 
 <div class="blue-line-break"></div>
