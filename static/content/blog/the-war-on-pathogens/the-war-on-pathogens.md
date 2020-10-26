@@ -7,7 +7,6 @@ type: "blog"
 image: "/content/blog/the-war-on-pathogens/img/covid-risk.png"
 description: "a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term, organized into sections"
 note: "Max Fowler"
-draft: "true"
 ---
 
 This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term,
@@ -142,6 +141,9 @@ Some examples,
 - [Schools Aren’t Super-Spreaders, Fears from the summer appear to have been overblown](https://www.theatlantic.com/ideas/archive/2020/10/schools-arent-superspreaders/616669/)
 - [Corona is not easily transmitted through surfaces](https://medicalxpress.com/news/2020-09-covid-infections-respiratory-droplets-aerosols.html?fbclid=IwAR0daSP2vCyfUlxxVtS6SGB9RVCeNPHgoxBPWoIZbUWjK0p6n9LaiPp-lyY), yet 'deep cleaning' helps people feel more at ease ([e.g. deep-cleaning new york subway](https://www.dailymail.co.uk/news/article-8291771/New-York-subway-closes-time-workers-perform-deep-clean-Covid-19-lockdown.html))
 
+Tracking hospital bed capacity (the original motivation for the initial lockdown) makes sense,
+as well as building more hospital capacity, but general lockdown disconnected from hospital capacity increases harm.
+
 
 <br/><br/>
 <b class="section-header">Long Covid</b>
@@ -167,19 +169,16 @@ This bias continues capitalist trends towards alienation from nature, each other
 which truly was already in a public health crisis long before corona (from pesticides, pollution, climate change, capital-influenced healthcare, the opioid crisis, biodiversity loss, lack of access to nature, and other factors).
 
 Perhaps if we could have had a perfect lockdown in March we could have prevented
-the spread of the virus entirely. But given that didn't happen, it seems likely Covid will become endemic like other coronaviruses.
-There are many better new normals one could imagine instead of "the war on pathogens"
-even if that would be the most profitable for the pharmaceutical companies.
-
-
+the spread of the virus entirely. But given that didn't happen, it seems likely Covid will become endemic like other coronaviruses. There are many other new normals one could imagine instead of "the war on pathogens",
+even if that would be the most profitable for pharmaceutical companies.
 
 Recently I dislike the way that most writing online ends.
 As though everything needs to be tied into a bow for jury submission.
 Given that I see polarization as part of the problem,
 I wasn't sure how to write about this in a way that doesn't further contribute to that cycle.
-Separate from the framework of thesis-counterthesis, I hope some pieces of this might
-be a source of grounding, information or perspective. The next sections are about conspiracy theories as a form of myth.
-
+Separate from the framework of thesis-counterthesis,
+I hope some pieces of this might be a source of grounding, information or perspective.
+The next sections are about conspiracy theories as a form of myth.
 
 <div class="blue-line-break"></div>
 
