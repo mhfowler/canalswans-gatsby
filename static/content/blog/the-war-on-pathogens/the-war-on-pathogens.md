@@ -144,10 +144,8 @@ Some examples,
 Tracking hospital bed capacity (the original motivation for the initial lockdown) makes sense,
 as well as building more hospital capacity, but general lockdown disconnected from hospital capacity increases harm.
 
-
 <br/><br/>
 <b class="section-header">Long Covid</b>
-
 
 While Long Covid is a real concern (my mom experienced a form of it, having symptoms for 4 weeks after getting Covid),
 next to the harms of lockdown, justifying lockdown in terms of long covid seems like a sort of shifting ground argument
