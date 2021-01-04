@@ -124,3 +124,10 @@ Further Reading:
 - [Center for a Stateless Society &raquo; Social-Anarchism and Parallel Economic Computation](https://c4ss.org/content/52963)
 
 - "Algorithms are a sweet poison" is a phrase I learned from [@kawaiipunk](https://sunbeam.city/web/accounts/38480)
+
+
+If you would like to join the fediverse, 
+[kolektive.social](https://kolektiva.social/) and [ondergrond.org](https://ondergrond.org/about) are two queer instances 
+that are currently open for registrations. 
+
+Or message me if you would like an invite to join [sunbeam.city](https://sunbeam.city/).
