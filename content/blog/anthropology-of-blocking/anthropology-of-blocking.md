@@ -12,7 +12,7 @@ draft: "true"
 
 *content warning: this post includes mentions of pokemon porn, possibly depicting characters who are underage (the question of their age is the source of the conflict), but the images themselves are not included*
 
-This is a brief account of an event that occurred in the [fediverse](https://en.wikipedia.org/wiki/Fediverse) on January 2nd of 2021, shared as an example to think through the dynamics of blocking, federation, and decentralized networks in general. 
+This is a brief account of an event that occurred in the [fediverse](https://en.wikipedia.org/wiki/Fediverse) on January 2nd of 2021.
 
 If you haven't heard of the fediverse before, [here](link) is an article about it. In short, its a federated social network, where there are many instances (servers) and each server has its own admin(s) who decide which other instances to federate with. Users of a particular instance can see posts from their own instance, as well as other instances which their instance federates with. You can imagine it as a network of connected communities. A federation.  
 
