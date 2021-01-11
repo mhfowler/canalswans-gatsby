@@ -1,4 +1,177 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Canal Swans RSS]]></title><description><![CDATA[an online-retail-conglomerate maintained by Max Fowler]]></description><link>http://canalswans.net</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Jan 2021 07:49:30 GMT</lastBuildDate><item><title><![CDATA[The War On Pathogens]]></title><description><![CDATA[This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term…]]></description><link>http://canalswans.net/posts/the-war-on-pathogens</link><guid isPermaLink="false">http://canalswans.net/posts/the-war-on-pathogens</guid><pubDate>Wed, 21 Oct 2020 23:19:51 GMT</pubDate><content:encoded>&lt;p&gt;This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Canal Swans RSS]]></title><description><![CDATA[an online-retail-conglomerate maintained by Max Fowler]]></description><link>http://canalswans.net</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Jan 2021 13:14:30 GMT</lastBuildDate><item><title><![CDATA[Anthropology Of Blocking]]></title><description><![CDATA[content warning: this post includes mentions of pokemon porn, possibly depicting characters who are underage (the question of their age is…]]></description><link>http://canalswans.net/posts/anthropology-of-blocking</link><guid isPermaLink="false">http://canalswans.net/posts/anthropology-of-blocking</guid><pubDate>Mon, 04 Jan 2021 23:19:51 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;content warning: this post includes mentions of pokemon porn, possibly depicting characters who are underage (the question of their age is the source of the conflict), but the images themselves are not included&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is a brief account of an event that occurred in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Fediverse&quot;&gt;fediverse&lt;/a&gt; on January 2nd of 2021.&lt;/p&gt;
+&lt;p&gt;If you haven&apos;t heard of the fediverse before, &lt;a href=&quot;link&quot;&gt;here&lt;/a&gt; is an article about it. In short, its a federated social network, where there are many instances (servers) and each server has its own admin(s) who decide which other instances to federate with. Users of a particular instance can see posts from their own instance, as well as other instances which their instance federates with. You can imagine it as a network of connected communities. A federation.  &lt;/p&gt;
+&lt;p&gt;If you don&apos;t like your admin&apos;s federation choices (too strict, or not strict enough), or for any reason, you can also migrate your account to another server. &lt;/p&gt;
+&lt;p&gt;In a sense, federation combines &quot;free speech&quot; with &quot;free listening&quot;. Anyone can create their own server and say whatever they want into the void, and at the same time no one has to listen to them (federate with them). &lt;/p&gt;
+&lt;p&gt;So with this background, now into the details of the incident. &lt;/p&gt;
+&lt;p&gt;Artalley.social is an instance with 12,600 users (pretty large for the fediverse) which describes itself like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Art Alley&lt;/em&gt; is a Mastodon server for &lt;em&gt;artists and commissioners&lt;/em&gt;, as well as people who just like looking at art. Share your finished pieces, works in progress, changes to your commissions status and your livestreams, or whatever else you want, really!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They also say adult art is welcome, and they have a &lt;a href=&quot;https://artalley.social/about/more&quot;&gt;code of conduct&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Apparently, someone on artalley.social posted a pornographic drawing of a pokemon character who is underage. &lt;/p&gt;
+&lt;p&gt;An admin of another instance saw this image, and reached out to the admin of artalley.social to report the image. &lt;/p&gt;
+&lt;p&gt;The admin of artalley.social said that the image depicted a character who was underage according to canon, but the image was of the pokemon physically at a later age, and so was not against the rules. &lt;/p&gt;
+&lt;p&gt;In response to this, the admin of elekk.xyz decided to defederate from artalley.social, and made a post about why there were defederating. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/78496393842fa3265b83e121ca7b1ea0/187fa/admin-post.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.91489361702128%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3ElEQVQoz4VSy3LaQBDU57jCQ+iBJBBohd4CYwMSQjZgQvyq3HLzNfkMH3zOJ+WQj+nMrCCVg1M+dM3u7G7vdM8o7ZaOOksxHsewhjH6TgjbbWJbddFSh/8BnbUtdEQB5/YF+uYFLa+A0rlo4e3bHo+He8zLI4rNFyyrI5JpBd0KofXfh27HULsOBnffcfj5G+HrLxj7H1Au6BchUoy8KVWYwrAjSdQzJ/Qw+BA9QtsI0TWbN4pmCuRXW0RZiTBZSbKOJqAaProMXbyDJq+eznsEzfSJ0G8IYyILiGwSLxGmhdxPogXivEQ6q5DNNsjntVwn07WMDC6C83xfJ2X8geJQA9b1ParbBxTkHcfq5gGL4g67w1fUuyeU5OvN7ln6u6o+o94+YbN9lJFR1pw/Yki2KTZ1lpOXiy1EeN1USdV6wRUCWo/8S4nxZA5BOQZXz3d9Au/5LiuzhgkU1fAkCbOzf2dwc9h0203huJmM/UHyF7znJvYHsYz8hv1UTDvAsjzgerWXkcHls3yWHedrRPR7lBXSZ5+qC05esxKulvOsQnqo6mN5yRUzjARJ8+dy7U0aKTwK5+7ygzP+zZ2jHJtP3QHJS6BZUYPT0OpWLNemk8By89OQfzCTRPgHncKHRLgGFgAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Screenshot from 2021-01-04 21-16-55.png&quot;
+        title=&quot;Screenshot from 2021-01-04 21-16-55.png&quot;
+        src=&quot;/static/78496393842fa3265b83e121ca7b1ea0/1d69c/admin-post.png&quot;
+        srcset=&quot;/static/78496393842fa3265b83e121ca7b1ea0/4dcb9/admin-post.png 188w,
+/static/78496393842fa3265b83e121ca7b1ea0/5ff7e/admin-post.png 375w,
+/static/78496393842fa3265b83e121ca7b1ea0/1d69c/admin-post.png 750w,
+/static/78496393842fa3265b83e121ca7b1ea0/78797/admin-post.png 1125w,
+/static/78496393842fa3265b83e121ca7b1ea0/187fa/admin-post.png 1194w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&quot;https://elekk.xyz/@whalefall/105488202284424171&quot;&gt;https://elekk.xyz/@whalefall/105488202284424171&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post circulated around the fediverse, and others weighed in with additional evidence of the failings of the moderators of artalley.social with a recommendation to block the instance. &lt;/p&gt;
+&lt;p&gt;e.g. this post with many screenshots &lt;a href=&quot;https://sunbeam.city/web/statuses/105497156571374148&quot;&gt;the supervillainess: You Should Defederate From artalley.social&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As you can see in the posts above, the block recommendation takes a form similar to a legal argument -- with evidence/screenshots (receipts) and an explanation for why the evidence is worthy of a block. &lt;/p&gt;
+&lt;p&gt;This is a common pattern on the fediverse. &lt;/p&gt;
+&lt;p&gt;Block recommendations get shared around the network, which other instance admins may or may not follow and/or re-share. &lt;/p&gt;
+&lt;p&gt;A decentralized court by screenshot.&lt;/p&gt;
+&lt;p&gt;~ ~ ~ ~ ~ a quote to pass the days ~ ~ ~ ~ ~ ~&lt;/p&gt;
+&lt;p&gt;In addition to the arguments recommending to block the instance,  I also saw posts from users complaining about the block, as they would have to change instances, when to them it seemed unfair that 12k users would have to change instances because of the bad actions of one user. &lt;/p&gt;
+&lt;p&gt;For example, &quot;ohcoolafrog&quot;, an artist I was following, posted this: &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fc00e830664cec504c63753950bc2a48/00172/ohcoolafrog.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 38.297872340425535%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAABZ0lEQVQoz3VS2XKCUAz1A/oHfe3Xt9Nt+tCfoFXZlB1lBCsqVBClLKdJGGf6UO9MJjckOTk5l9Hj2xOCIMB+n2G1WmG73aEojijLCoeiRFEeh/hYof5p8N9pmhabdEf5H4zubm/w8vyA5TLCZDKBaZrw/AB+EMJ1PViWDcdxxcIwRJqmiGlwkiSI4xjrdUJEYmRZjr7vMXp/vYcXesQypGYLvu+L9zwPtm2L5yGO48gmrutKnnN8n81mEud5LmxHQplWMQwD8/lcGvnOxkCGYULXh5hz/E3XdQFhME3TMB6Pha0Adl2HqqoIzBJALuQiLr7YhQkDco4BGZjreRB/483quh4Ynk4nKeJJXKh8fEJVNSlWVVUaFUXBdDqVmP1isRAJoigi/Zf0iOWg4fBKDYm7EcHT7R5F9kUi7+iVC3rhwQ6Hgxhvw/G1I4Bt29HvURHTM76LE7pqTbqe0bT91UZmw3L99Wy/FJJNfx6US8YAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ohcoolafrog.png&quot;
+        title=&quot;ohcoolafrog.png&quot;
+        src=&quot;/static/fc00e830664cec504c63753950bc2a48/1d69c/ohcoolafrog.png&quot;
+        srcset=&quot;/static/fc00e830664cec504c63753950bc2a48/4dcb9/ohcoolafrog.png 188w,
+/static/fc00e830664cec504c63753950bc2a48/5ff7e/ohcoolafrog.png 375w,
+/static/fc00e830664cec504c63753950bc2a48/1d69c/ohcoolafrog.png 750w,
+/static/fc00e830664cec504c63753950bc2a48/00172/ohcoolafrog.png 1044w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Currently artalley.social server appears to be down, maybe the admins took it down. So I&apos;m not sure what happened to ohcoolafrog. Maybe I will find them again on another instance someday. &lt;/p&gt;
+&lt;p&gt;~ ~ ~ ~ ~     a quote to pass the days ~ ~ ~ ~ ~ ~&lt;/p&gt;
+&lt;p&gt;The thing that inspired me to write this, was &lt;a href=&quot;https://ondergrond.org/@dumpsterqueer/105491747322124960&quot;&gt;a post&lt;/a&gt; from an admin of ondergrond.org, a queer instance in belgium, about their thoughts on this process. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/056df90cc503428b6a258012c93c1b88/511f0/federation.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.08510638297872%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAABy0lEQVQ4y32TyXbiQAxF+ele9V/lN3rVOxYBA7bBNuDyPDEodWUUknTSdc47JanKT08qefH694+kSSbb7VaCIJDD4SBlVcs5d+Jc+Y7cFeKKUs++ruvtpneqppPFy6/fEm5DifexRGEooUeaZp44kTCKJEkSieJYfeyDR57ncj6f/b1UTqeTZMejTNMk3TDKoo1OPniUzWYjsf8QlajFD4K17obdbidRNCddr+cz7NVq5ckTKetWFkguikJLPfpMACUz0g92oneyLFNV+NgWd85J248zYV3XqgyQ2VSiCNsUmnJTh0/ZEDdNI/04PQk5sKwAH1h2YtjE9vu9tgelN/8g1+tV908K6YNlNmWRfxR28yHjMWgLNokgJxmE+igQVlWlzSUrJBBwEUXEiZEMsnEcpe97GYZBgU1M7venQghRRgmMBBlRDQEqAD7KbGSsNSSFlNX2w0xYlqU2GMKPmU0Je9u20nXdP+CM/XK5PEueCXdKSi8pGdiLL5dLfTDu2TCj1vqJUk0wTDaHTqVzgZL4OH3MGH1lp2zU/m+995B/lCHOMobaD+6jdww8oH+oQCHr7h/gKz4RDl7q4IeSvWl7eZx/u+zjnwjfAElkI3Vr7lSMAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;federation.png&quot;
+        title=&quot;federation.png&quot;
+        src=&quot;/static/056df90cc503428b6a258012c93c1b88/1d69c/federation.png&quot;
+        srcset=&quot;/static/056df90cc503428b6a258012c93c1b88/4dcb9/federation.png 188w,
+/static/056df90cc503428b6a258012c93c1b88/5ff7e/federation.png 375w,
+/static/056df90cc503428b6a258012c93c1b88/1d69c/federation.png 750w,
+/static/056df90cc503428b6a258012c93c1b88/78797/federation.png 1125w,
+/static/056df90cc503428b6a258012c93c1b88/511f0/federation.png 1172w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;My current view is that moderation would work best like this:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 750px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/58dc8d020a76f61ba4cf675fb97a57bf/6be49/moderation.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.80851063829788%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACEUlEQVQ4y6WUN7ITQRRFZ5VsABJicvbAEiCliIhYgkrIe43MSF9eIyE/RubSp/V7iiIgYapu9fOvn5n2Pn37ojfv32k2mWjy8qL1aqV1GCoMN4qiWI/HQ/f73cLRNwO+fhjp44+JPnwf6+3XoT7/DOWdUmkbS7tE+hU/tE8e+p/PG89XKtTaqrR8VTt9Nf2hRqORxXg81nA4lO/79nQIgkDT6VT9ft/aTEx1s9lMSZLImxui2airWa+r225bulqtqm1oUC6XLd/pdCzfbDZVq9VsMOSNRkMDk+R4PNp2eIG5CU4YVSoV49RRsVhU3SQolUqW5szn8xmdy+WsD3A2rVbrGfDFDIKsZO/1eup2u5rP54rjWOfz2QLa8VEU2ZPyLpdLhuyG+/1ey+VSm81GKya8Xmu73VoDgmBMgNPppMPhkCXBDxl2yLOhcEOuTS8om5MSALyT0Y5CoWBLQ+faBGgHFZLEY5oIMaR0SiaA42k8ehz+HAxy+swGQC8WC91uN3mUygowdkoGKJEB+klS9NCAFqFjXThdMFsyAQaDgd0t3+9ZsGsEecr8bN/cfsITyPmh45a73e4Z0AlHo8AGI3PwusRMngDYuGV39rQHmsC0iOF4SZKaqUVmmpFiQ1/M/3s6X6wsTa9CD4/8bGyu19u/f73r9emUpOkzgDktb/YMXZo+6fRVjoxHwj0Ufz8evwH1tgnz9izCwQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;moderation.png&quot;
+        title=&quot;moderation.png&quot;
+        src=&quot;/static/58dc8d020a76f61ba4cf675fb97a57bf/1d69c/moderation.png&quot;
+        srcset=&quot;/static/58dc8d020a76f61ba4cf675fb97a57bf/4dcb9/moderation.png 188w,
+/static/58dc8d020a76f61ba4cf675fb97a57bf/5ff7e/moderation.png 375w,
+/static/58dc8d020a76f61ba4cf675fb97a57bf/1d69c/moderation.png 750w,
+/static/58dc8d020a76f61ba4cf675fb97a57bf/78797/moderation.png 1125w,
+/static/58dc8d020a76f61ba4cf675fb97a57bf/6be49/moderation.png 1160w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&quot;https://sunbeam.city/@notplants/105497077449053429&quot;&gt;https://sunbeam.city/@notplants/105497077449053429&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;~ ~ ~ ~ ~ a quote to pass the days ~ ~ ~ ~ ~ ~&lt;/p&gt;
+&lt;p&gt;To zoom out for a second, something I find beautiful about the fediverse, &lt;/p&gt;
+&lt;p&gt;is that its a place where these questions are being asked and lived out. &lt;/p&gt;
+&lt;p&gt;Whether pokemon porn should be judged by the age of the character according to canon or according to the contents of the image is not the most interesting question to me, &lt;/p&gt;
+&lt;p&gt;but how this question gets answered, becomes a case-study for a deeper set of questions about  moderation and the network itself. &lt;/p&gt;
+&lt;p&gt;On centralized platforms there isn&apos;t nearly as much transparency. &lt;/p&gt;
+&lt;p&gt;When a post gets banned, it often just disappears.&lt;/p&gt;
+&lt;p&gt;When something gets shadowbanned, we may not even know its happening. &lt;/p&gt;
+&lt;p&gt;Perhaps central platforms just hide the politics of the messy reality from view.
+Like so many capitalist &quot;solutions&quot; do.
+Like the trashbin, the one-click-delivery, the polished rectangle. &lt;/p&gt;
+&lt;p&gt;Algorithms are a sweet poison. &lt;/p&gt;
+&lt;p&gt;Further Reading: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://c4ss.org/content/52963&quot;&gt;Center for a Stateless Society » Social-Anarchism and Parallel Economic Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&quot;Algorithms are a sweet poison&quot; is a phrase I learned from &lt;a href=&quot;https://sunbeam.city/web/accounts/38480&quot;&gt;@kawaiipunk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you would like to join the fediverse,
+&lt;a href=&quot;https://kolektiva.social/&quot;&gt;kolektive.social&lt;/a&gt; and &lt;a href=&quot;https://ondergrond.org/about&quot;&gt;ondergrond.org&lt;/a&gt; are two queer instances
+that are currently open for registrations. &lt;/p&gt;
+&lt;p&gt;Or message me if you would like an invite to join &lt;a href=&quot;https://sunbeam.city/&quot;&gt;sunbeam.city&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The War On Pathogens]]></title><description><![CDATA[This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term…]]></description><link>http://canalswans.net/posts/the-war-on-pathogens</link><guid isPermaLink="false">http://canalswans.net/posts/the-war-on-pathogens</guid><pubDate>Wed, 21 Oct 2020 23:19:51 GMT</pubDate><content:encoded>&lt;p&gt;This is a collection of resources considering the ways in which corona restrictions may be causing more harm than corona in the long-term,
 organized into sections.&lt;/p&gt;
 &lt;p&gt;It includes arguments from epidemiologists at the top,
 and from less accredited sources at the bottom along with an exploration of the role of conspiracy theories as myths,
