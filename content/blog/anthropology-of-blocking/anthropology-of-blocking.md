@@ -7,7 +7,6 @@ type: "blog"
 image: ""
 description: "documentation from the fediverse in 2021"
 note: "Max Fowler"
-draft: "true"
 ---
 
 *content warning: this post includes mentions of pokemon porn, possibly depicting characters who are underage (the question of their age is the source of the conflict), but the images themselves are not included*
