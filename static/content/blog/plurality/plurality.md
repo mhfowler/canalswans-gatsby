@@ -5,7 +5,7 @@ title: "Plurality"
 author: "Max Fowler"
 type: "blog"
 image: ""
-draft: "true:
+draft: "true"
 description: "an essay on scientism, body sovereigny, platform capitalism and plurality"
 note: "Max Fowler"
 ---
