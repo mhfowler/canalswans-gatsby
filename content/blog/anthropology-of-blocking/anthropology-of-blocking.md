@@ -107,3 +107,4 @@ If you would like to join the fediverse,
 [kolektive.social](https://kolektiva.social/) and [ondergrond.org](https://ondergrond.org/about) are two queer instances 
 that are currently open for registrations. 
 
+Or message me if you would like an invite to join [sunbeam.city](https://sunbeam.city/).
