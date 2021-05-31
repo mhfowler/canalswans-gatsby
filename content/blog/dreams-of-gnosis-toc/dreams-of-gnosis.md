@@ -1,8 +1,8 @@
 ---
-path: "/posts/dreams-of-gnosis"
+path: "/posts/dreams-of-gnosis-toc"
 date: "2021-05-20T23:19:51.246Z"
 title: "Dreams Of Gnosis"
-author: "Multiple Contributors"
+author: ""
 type: "blog"
 image: ""
 draft: "true"
@@ -10,7 +10,17 @@ description: "a poem about sovereignty and gnosis"
 note: "Multiple Contributors"
 ---
 
-<div style="height:80px"></div>
+<div style="height:120px"></div>
+
+_Table Of Contents_
+1. Body Sovereignty by Max Fowler
+2. Letter from Txanahuya Hunikuī 
+3. Morgan Ash On Stigma
+4. Love Poem
+
+<div class="pagebreak"></div>
+
+# Body Sovereignty 
 
 Sovereignty isn’t the same as individualism or as selfishness. 
 
@@ -44,15 +54,8 @@ Beyond my objections to vaccine passports, I feel like ending this letter with s
 
 Whether you get vaccinated or don’t get vaccinated I will not ostracize you or look down on you. That’s your choice.
 
-<div class="blackpagebreak"></div>
 
-Below is a letter from Txanahuya Hunikuī which I read via Scuttlebutt, 
-and inspired many of the topics I wrote about in the post above.
-
-Here is a link to the <a href="https://www.facebook.com/groups/2780811705491593/permalink/2789219701317460">original letter</a>.
-
-<div class="blackpagebreak"></div>
-
+<div class="pagebreak"></div>
 
 # Letter From Txanahuya Hunikuī 
 
@@ -77,15 +80,7 @@ Natural Judge-TOAJ representative of the North region of Pindo Abya Ayala …
 Deliberative Adviser of FEPHAC …
 
 
-<div class="blackpagebreak"></div>
-
-Below is a transcript of a recording from a conversation I had with Morgan Ash
-about Vaccine Passports Race and her concerns about the direction things are headed.
-
-Morgan is a friend and has been working with these topics for a long time. 
-If you want to work with her you can contact her via email at morganash@gmail.com.
-
-<div class="blackpagebreak"></div>
+<div class="pagebreak"></div>
 
 # Morgan Ash On Stigma
 
@@ -144,24 +139,20 @@ its my body,
 I have to live with the consequences of whatever happens to me. 
 
 
-<div class="blackpagebreak"></div>
+<div class="pagebreak"></div>
 
-Lastly, here is a short poem.
-The first line of the poem is a quote from Melanie Hoff which she explores
-in her class <a href="https://lovelanguages.melaniehoff.com/">Digital Love Languages</a> &mdash; a question which has begot many other questions. 
+# Love Poem
 
-I imagine that many things in this post may be triggering to people. 
-These are charged subjects, but I hope that this writing might empower or bring relief 
-to someone, and help bring more compassion to these questions. 
-
-<div class="blackpagebreak"></div>
-
-# In Search Of Love Beyond Paternalism
 ```
 what if all the software you used was made by people who loved you?
 what if all the medicine you took was made by people who loved you?
 
-one of my dreams is currently more taboo than the other, 
-I don't always know what to do with them
+one of my dreams is currently more taboo than the other, I don't always know what to do with them
 ```
 
+
+
+<br/><br/><br/>
+With Love,
+
+Max
