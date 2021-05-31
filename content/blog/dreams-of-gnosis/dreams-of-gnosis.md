@@ -80,7 +80,7 @@ Deliberative Adviser of FEPHAC …
 <div class="blackpagebreak"></div>
 
 Below is a transcript of a recording from a conversation I had with Morgan Ash
-about Vaccine Passports Race and her concerns about the direction things are headed.
+about Vaccine Passports, Race and her concerns about the direction things are headed.
 
 Morgan is a friend and has been working with these topics for a long time. 
 If you want to work with her you can contact her via email at morganash@gmail.com.
