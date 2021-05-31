@@ -150,10 +150,6 @@ Lastly, here is a short poem.
 The first line of the poem is a quote from Melanie Hoff which she explores
 in her class <a href="https://lovelanguages.melaniehoff.com/">Digital Love Languages</a> &mdash; a question which has begot many other questions. 
 
-I imagine that many things in this post may be triggering to people. 
-These are charged subjects, but I hope that this writing might empower or bring relief 
-to someone, and help bring more compassion to these questions. 
-
 <div class="blackpagebreak"></div>
 
 # In Search Of Love Beyond Paternalism
