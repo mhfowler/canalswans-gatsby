@@ -92,4 +92,4 @@ Another way to phrase things perhaps, is that acknowledging, respecting and culi
 to have domain over their own body, 
 could be a good starting point for a lot of things, small & large. 
 
-I hope this letter brings some relief or empowerment to someone or opens some new questions. Its been a long year. Sending love. 
+I hope this letter brings some relief or empowerment to someone or some new perspective. Its been a long year. Sending love. 
