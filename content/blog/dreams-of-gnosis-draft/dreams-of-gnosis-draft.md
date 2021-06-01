@@ -81,6 +81,6 @@ Deliberative Adviser of FEPHAC …
 
 # Further Links
 
-- [Morgan Ash on Vaccine Passports, Racism and Vaccine Segregation](/static/morgan-ash-vaccine-passports.mov)
+- [Morgan Ash on Vaccine Passports, Racism and Vaccine Segregation](/morgan-ash-vaccine-passports.mov)
 - [A podcast on Body Sovereignty in the context of Women's Health (no mention of vaccines)](https://pca.st/3ksv84jh)
 - [Love Poem](/posts/love-poem)
