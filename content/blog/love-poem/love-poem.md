@@ -24,4 +24,4 @@ I don't always know what to do with them
 <div style="margin-top:80px;" class="blackpagebreak"></div>
 
 The first line is a quote from Melanie Hoff from
-her class <a href="https://lovelanguages.melaniehoff.com/">Digital Love Languages</a> &mdash; a question which has begot many other questions. 
+her class <a href="https://lovelanguages.melaniehoff.com/">Digital Love Languages</a>. 

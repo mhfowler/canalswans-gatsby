@@ -6,7 +6,7 @@ author: "Max Fowler"
 type: "blog"
 image: ""
 draft: "true"
-description: "a poem about sovereignty and gnosis"
+description: "a letter about sovereignty and gnosis"
 note: "Multiple Contributors"
 ---
 
