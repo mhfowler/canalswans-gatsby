@@ -1,6 +1,6 @@
 ---
 path: "/posts/dreams-of-gnosis-draft"
-date: "2021-05-20T23:19:51.246Z"
+date: "2021-06-01T23:19:51.246Z"
 title: "Dreams Of Gnosis"
 author: "Max Fowler"
 type: "blog"
