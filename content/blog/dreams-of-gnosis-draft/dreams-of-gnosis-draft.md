@@ -2,7 +2,7 @@
 path: "/posts/dreams-of-gnosis"
 date: "2021-06-01T23:19:51.246Z"
 title: "Dreams Of Gnosis"
-author: "Max Fowler"
+author: "1143 Words"
 type: "blog"
 image: ""
 draft: "true"
