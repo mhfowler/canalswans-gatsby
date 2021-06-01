@@ -81,6 +81,6 @@ Deliberative Adviser of FEPHAC …
 
 # Further Links
 
-- [Morgan Ash on Vaccine Passports, Racism and Vaccine Segregation](/morgan-ash-vaccine-passports.mov)
-- [A podcast on Body Sovereignty in the context of Women's Health (no mention of vaccines)](https://pca.st/3ksv84jh)
+- [Morgan Ash on Vaccine Passports, Racism and Vaccine Segregation](/morgan-ash-vaccine-passports.mov) &mdash; Morgan has been working with these topics in Hudson Valley for a long time. If you want to organize with her you can contact her via [facebook](https://www.facebook.com/ATravelersGarden/).
+- [A podcast about Body Sovereignty and Reproductive Health (no mention of vaccines)](https://pca.st/3ksv84jh)
 - [Love Poem](/posts/love-poem)
