@@ -34,7 +34,7 @@ The idea that even suggesting sovereignty is a good principle, may be seen as a 
 
 Coercion and manipulation are deeply rooted in our culture (advertisements, police, data tracking, prisons, dark UX), but I’m still not really sure we can dismantle the masters house with the masters tools. 
 
-I have a lot of friends who are anti-colonial and anti-capitalist, but somehow see vaccination, medicine, and the pharmaceutical companies as exceptions from these systems. To me this feels dissonant.  As though Pfizer doesn't have more than 1.3 billion in past criminal fines. As though crisis and trauma were not the perfect opportunity for power structures to establish themselves which will long outlast their virtue. 
+I have a lot of friends who are anti-colonial and anti-capitalist, but somehow see vaccination, medicine, and the pharmaceutical companies as separate from these systems. To me this feels dissonant.  As though Pfizer doesn't have more than 1.3 billion in past criminal fines. As though crisis and trauma were not the perfect opportunity for power structures to establish themselves which will long outlast their virtue. 
 
 Given the long history of connection between religion and medicine in cultures all around the world, freedom of religion, and medical freedom, seem deeply entwined. Given the inherent uncertainty of the world, even of science, even between scientists, at what point does forcing a medical perspective on someone else become a sort of religious missionary activity? And who gets to draw that line? Do we want to live in a world where white billionaires make those decisions for everyone? Even if you approve of their decisions this time, what seeds do we sew when we outsource those decisions to them? Will “experts” always have the experience of marginalized people in mind? Have they in the past?
 
@@ -47,7 +47,7 @@ Whether you get vaccinated or don’t get vaccinated I will not ostracize you or
 <div class="blackpagebreak"></div>
 
 Below is a letter from Txanahuya Hunikuī which I read via Scuttlebutt, 
-and inspired many of the topics I wrote about in the post above.
+and inspired many of the topics I wrote about in the writing above.
 
 Here is a link to the <a href="https://www.facebook.com/groups/2780811705491593/permalink/2789219701317460">original letter</a>.
 
@@ -92,4 +92,4 @@ Another way to phrase things perhaps, is that acknowledging, respecting and culi
 to have domain over their own body, 
 could be a good starting point for a lot of things, small & large. 
 
-I hope this letter brings some relief or empowerment to someone or some new perspective. Its been a long year. Sending love. 
+I hope this letter brings some relief or empowerment to someone or opens some new questions. Its been a long year. Sending love. 
