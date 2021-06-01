@@ -84,3 +84,12 @@ Deliberative Adviser of FEPHAC …
 - [Morgan Ash on Vaccine Passports, Racism and Vaccine Segregation](/morgan-ash-vaccine-passports.mov) &mdash; Morgan has been working with these topics in Hudson Valley for a long time. If you want to organize with her you can contact her via [facebook](https://www.facebook.com/ATravelersGarden/).
 - [A podcast about Body Sovereignty and Reproductive Health (no mention of vaccines)](https://pca.st/3ksv84jh)
 - [Love Poem](/posts/love-poem)
+
+
+<div class="blackpagebreak"></div>
+
+Another way to phrase things perhaps, is that acknowledging, respecting and culivating the power of every human being, 
+to have domain over their own body, 
+could be a good starting point for a lot of things, small & large. 
+
+I hope this letter brings some relief or empowerment to someone or opens some new questions. Its been a long year. Sending love. 
