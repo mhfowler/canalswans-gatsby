@@ -1,5 +1,5 @@
 ---
-path: "/posts/dreams-of-gnosis"
+path: "/posts/dreams-of-gnosis-old"
 date: "2021-05-20T23:19:51.246Z"
 title: "Dreams Of Gnosis"
 author: "Multiple Contributors"
