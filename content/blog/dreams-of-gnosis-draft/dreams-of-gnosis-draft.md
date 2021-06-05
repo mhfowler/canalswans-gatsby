@@ -89,4 +89,4 @@ Deliberative Adviser of FEPHAC …
 
 Another way to phrase things perhaps, is that acknowledging, respecting and culivating the power of every human being, 
 to have domain over their own body, 
-could be a good starting point for a lot of things, small & large, even when it may be counter-intuitive.
+could be a good starting point for a lot of things, small & large, even when it may seem counter-intuitive.
